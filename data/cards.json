@@ -10,7 +10,7 @@
     "atk": 1800,
     "def": 700,
     "cardcode": "58569561",
-    "image": "/Images/aromageSR.jpeg",
+    "image": "./Images/aromageSR.jpeg",
     "effect": "While your LP are higher than your opponent’s, if a Plant monster you control attacks, your opponent cannot activate monster effects until the end of the Damage Step. Once per turn, if you gain LP: Target 1 face-up monster on the field; change its battle position.",
     "sets": [
       {
@@ -28,11 +28,11 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/aromageSR.jpeg",
+        "src": "./Images/aromageSR.jpeg",
         "caption": "CR03-AE096 (SR) — Creation Pack 03"
       },
       {
-        "src": "/Images/aromageScR.jpeg",
+        "src": "./Images/aromageScR.jpeg",
         "caption": "CR03-AES17 (ScR) — Creation Pack 03 +1 Bonus Pack"
       }
     ]
@@ -49,7 +49,7 @@
     "atk": 500,
     "def": 500,
     "cardcode": "49131917",
-    "image": "/Images/shinonome.jpeg",
+    "image": "./Images/shinonome.jpeg",
     "effect": "Pendulum Effect:During your Main Phase: You can Special Summon this card to your Main Monster Zone in its same column, also you cannot Special Summon non-\"Vaylantz\" monsters for the rest of this turn, except from the Extra Deck. You can only use this effect of \"Shinonome the Vaylantz Priestess\" once per turn.\nMonster EffectDuring your Main Phase, if you control this Special Summoned card: You can add 1 \"Vaylantz\" Spell from your Deck to your hand. If this card in the Monster Zone moves to another Monster Zone: You can add 1 \"Vaylantz\" monster from your Deck to your hand, except \"Shinonome the Vaylantz Priestess\". You can only use each effect of \"Shinonome the Vaylantz Priestess\" once per turn.",
     "sets": [
       {
@@ -61,7 +61,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/shinonome.jpeg",
+        "src": "./Images/shinonome.jpeg",
         "caption": "CR01-AE137 (SR) — Creation Pack 01"
       }
     ]
@@ -78,7 +78,7 @@
     "atk": 0,
     "def": 0,
     "cardcode": "54862960",
-    "image": "/Images/ninimikanko.jpeg",
+    "image": "./Images/ninimikanko.jpeg",
     "effect": "If this card is not equipped with an Equip Card, you take no damage from battles involving this card. If this card is equipped with an Equip Card, it cannot be destroyed by battle and your opponent takes any battle damage you would have taken from battles involving this card. During your opponent's turn, while this card is equipped with an Equip Card (Quick Effect): You can target 1 face-up monster your opponent controls; take control of it until the End Phase. You can only use this effect of \"Ni-Ni the Mirror Mikanko\" once per turn.",
     "sets": [
       {
@@ -90,7 +90,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/ninimikanko.jpeg",
+        "src": "./Images/ninimikanko.jpeg",
         "caption": "CR01-AE190 (SR) — Creation Pack 01"
       }
     ]
@@ -107,7 +107,7 @@
     "atk": 0,
     "def": 0,
     "cardcode": "71734607",
-    "image": "/Images/RikkaPetalScR.jpeg",
+    "image": "./Images/RikkaPetalScR.jpeg",
     "effect": "During your Main Phase: You can take 1 \"Rikka\" monster from your Deck, except \"Rikka Petal\", and either add it to your hand or send it to the GY, also you cannot Special Summon for the rest of this turn, except Plant monsters. During your opponent's End Phase, while this card is in your GY, if you control no monsters or all monsters you control are Plant monsters: You can Special Summon this card. You can only use each effect of \"Rikka Petal\" once per turn.",
     "sets": [
       {
@@ -131,15 +131,15 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/RikkaPetalUR.jpeg",
+        "src": "./Images/RikkaPetalUR.jpeg",
         "caption": "CR03-AE168 (UR) — Creation Pack 03"
       },
       {
-        "src": "/Images/RikkaPetalScR.jpeg",
+        "src": "./Images/RikkaPetalScR.jpeg",
         "caption": "CR03-AE168 (ScR) — Creation Pack 03"
       },
       {
-        "src": "/Images/RikkaPetalURAES.jpeg",
+        "src": "./Images/RikkaPetalURAES.jpeg",
         "caption": "CR03-AES23 (UR) — Creation Pack 03 +1 Bonus Pack"
       }
     ]
@@ -156,7 +156,7 @@
     "atk": 800,
     "def": 1800,
     "cardcode": "08129306",
-    "image": "/Images/PrimulaRikka.jpeg",
+    "image": "./Images/PrimulaRikka.jpeg",
     "effect": "If a monster you control is Tributed (except during the Damage Step): You can Special Summon this card from your hand in Defense Position. You can target up to 2 Plant monsters you control; increase their Level(s) by 2 until the end of this turn. You can only use each effect of \"Primula the Rikka Fairy\" once per turn.",
     "sets": [
       {
@@ -168,7 +168,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/PrimulaRikka.jpe",
+        "src": "./Images/PrimulaRikka.jpe",
         "caption": "CR03-AE169 (SR) — Creation Pack 03"
       }
     ]
@@ -185,7 +185,7 @@
     "atk": 1800,
     "def": 800,
     "cardcode": "34614910",
-    "image": "/Images/CyclamenRikka.jpeg",
+    "image": "./Images/CyclamenRikka.jpeg",
     "effect": "You can Tribute this card from your hand or face-up field, then target up to 2 Plant monsters you control; reduce their Level(s) by 2 until the end of this turn. During the End Phase, if this card is in the GY because it was Tributed and sent there this turn: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Cyclamen the Rikka Fairy\" once per turn.",
     "sets": [
       {
@@ -197,7 +197,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/CyclamenRikka.jpeg",
+        "src": "./Images/CyclamenRikka.jpeg",
         "caption": "CR03-AE170 (R) — Creation Pack 03"
       }
     ]
@@ -473,7 +473,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/TeardropUR.jpeg",
+        "src": "./Images/TeardropUR.jpeg",
         "caption": "CR03-AE178 (UR) — Creation Pack 03"
       },
       {
@@ -506,7 +506,7 @@
     "atk": 900,
     "def": 1700,
     "cardcode": "96305350",
-    "image": "/Images/CaptCariSR.jpeg",
+    "image": "./Images/CaptCariSR.jpeg",
     "effect": "If your LP are lower than your opponent's: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Gold Pride\" Trap from your Deck to your hand. If this card is sent to the GY: You can target 1 \"Gold Pride\" monster you control that was Special Summoned from the Extra Deck; banish up to 3 \"Gold Pride\" cards from your GY, and if you do, that monster gains 500 ATK for each card banished this way. You can only use each effect of \"Gold Pride - Captain Carrie\" once per turn.",
     "sets": [
       {
@@ -524,11 +524,11 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/CaptCariSR.jpeg",
+        "src": "./Images/CaptCariSR.jpeg",
         "caption": "CR04-AE049 (SR) — Creation Pack 04"
       },
       {
-        "src": "/Images/CaptCariScR.jpeg",
+        "src": "./Images/CaptCariScR.jpeg",
         "caption": "CR04-AES04 (ScR) — Creation Pack 04 +1 Bonus Pack"
       }
     ]
@@ -569,11 +569,11 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/SelettriceSR.jpeg",
+        "src": "./Images/SelettriceSR.jpeg",
         "caption": "LEDE-AE022 (SR) — Legacy of Destruction"
       },
       {
-        "src": "/Images/SelettriceScR.jpeg",
+        "src": "./Images/SelettriceScR.jpeg",
         "caption": "LEDE-AE022 (ScR) — Legacy of Destruction"
       },
       {
@@ -594,7 +594,7 @@
     "atk": 1500,
     "def": 1200,
     "cardcode": "23899727",
-    "image": "/Images/AbysslindaN.jpeg",
+    "image": "./Images/AbysslindaN.jpeg",
     "effect": "If this card on the field is destroyed and sent to the GY: You can Special Summon 1 \"Mermail\" monster from your Deck, except \"Mermail Abysslinde\". You can only use this effect of \"Mermail Abysslinde\" once per turn.",
     "sets": [
       {
@@ -606,7 +606,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/AbysslindaN.jpeg",
+        "src": "./Images/AbysslindaN.jpeg",
         "caption": "CR05-AE107 (N) — Creation Pack 05"
       }
     ]
@@ -623,7 +623,7 @@
     "atk": 1400,
     "def": 800,
     "cardcode": "69293721",
-    "image": "/Images/AbyssgundeN.jpeg",
+    "image": "./Images/AbyssgundeN.jpeg",
     "effect": "If this card is discarded to the Graveyard: You can target 1 \"Mermail\" monster in your Graveyard, except \"Mermail Abyssgunde\"; Special Summon that target. You can only use the effect of \"Mermail Abyssgunde\" once per turn.",
     "sets": [
       {
@@ -635,7 +635,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/AbyssgundeN.jpeg",
+        "src": "./Images/AbyssgundeN.jpeg",
         "caption": "CR05-AE108 (N) — Creation Pack 05"
       }
     ]
@@ -652,7 +652,7 @@
     "atk": 1300,
     "def": 400,
     "cardcode": "96682430",
-    "image": "/Images/AbysshildeN.jpeg",
+    "image": "./Images/AbysshildeN.jpeg",
     "effect": "If this card is sent to the Graveyard: You can Special Summon 1 \"Mermail\" monster from your hand, except \"Mermail Abysshilde\". You can only use the effect of \"Mermail Abysshilde\" once per turn.",
     "sets": [
       {
@@ -664,7 +664,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/AbysshildeN.jpeg",
+        "src": "./Images/AbysshildeN.jpeg",
         "caption": "CR05-AE109 (N) — Creation Pack 05"
       }
     ]
@@ -681,7 +681,7 @@
     "atk": 1000,
     "def": 200,
     "cardcode": "74298287",
-    "image": "/Images/AbyssdineN.jpeg",
+    "image": "./Images/AbyssdineN.jpeg",
     "effect": "When this card is added from your Deck or Graveyard to your hand by a card effect: You can Special Summon this card from your hand. You must control a \"Mermail\" monster to activate and to resolve this effect. When this card is Special Summoned by the effect of a \"Mermail\" monster: You can target 1 Level 3 or lower \"Mermail\" monster in your Graveyard; Special Summon that target. You can only use 1 \"Mermail Abyssdine\" effect per turn, and only once that turn.",
     "sets": [
       {
@@ -693,7 +693,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/AbyssdineN.jpeg",
+        "src": "./Images/AbyssdineN.jpeg",
         "caption": "CR05-AE110 (N) — Creation Pack 05"
       }
     ]
@@ -710,7 +710,7 @@
     "atk": 1100,
     "def": 1900,
     "cardcode": "28577986",
-    "image": "/Images/AbyssoceaN.jpeg",
+    "image": "./Images/AbyssoceaN.jpeg",
     "effect": "You can target 1 \"Mermail\" monster you control; Special Summon any number of Level 4 or lower \"Mermail\" monsters from your Deck whose combined Levels are less than or equal to the Level of that monster, then send that monster to the Graveyard. You can only use the effect of \"Mermail Abyssocea\" once per turn.",
     "sets": [
       {
@@ -722,7 +722,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/AbyssoceaN.jpeg",
+        "src": "./Images/AbyssoceaN.jpeg",
         "caption": "CR05-AE111 (N) — Creation Pack 05"
       }
     ]
@@ -739,7 +739,7 @@
     "atk": 1200,
     "def": 2000,
     "cardcode": "71133680",
-    "image": "/Images/AbyssnereiN.jpeg",
+    "image": "./Images/AbyssnereiN.jpeg",
     "effect": "(Quick Effect): You can discard this card, then target 1 WATER monster you control; destroy 1 other WATER monster in your hand or field, and if you do, the targeted monster gains ATK/DEF equal to the destroyed monster's original ATK/DEF, until the end of this turn. If this card is sent from the field to the GY: You can draw 1 card, then discard 1 card. You can only use each effect of \"Mermail Abyssnerei\" once per turn.",
     "sets": [
       {
@@ -751,7 +751,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/AbyssnereiN.jpeg",
+        "src": "./Images/AbyssnereiN.jpeg",
         "caption": "CR05-AE112 (N) — Creation Pack 05"
       }
     ]
@@ -768,7 +768,7 @@
     "atk": 1600,
     "def": 2800,
     "cardcode": "59170782",
-    "image": "/Images/AbysstriteSR.jpeg",
+    "image": "./Images/AbysstriteSR.jpeg",
     "effect": "3 Level 3 monsters \nDuring either player's turn, when your opponent targets exactly 1 face-up \"Mermail\" monster you control for an attack, or with a Spell/Trap effect that could have targeted this card (except during the Damage Step): You can detach 1 Xyz Material from this card; that attack/effect now targets this card. When this card is destroyed and sent to the Graveyard: You can target 1 \"Mermail\" monster in your Graveyard, except \"Mermail Abysstrite\"; Special Summon that target.",
     "sets": [
       {
@@ -780,7 +780,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/AbysstriteSR.jpeg",
+        "src": "./Images/AbysstriteSR.jpeg",
         "caption": "CR05-AE122 (SR) — Creation Pack 05"
       }
     ]
@@ -797,7 +797,7 @@
     "atk": 1600,
     "def": 0,
     "cardcode": "23545031",
-    "image": "/Images/AbyssalaciaSR.jpeg",
+    "image": "./Images/AbyssalaciaSR.jpeg",
     "effect": "2 Fish, Sea Serpent, and/or Aqua monsters \nMonsters this card points to gain 500 ATK/DEF. You can only use each of the following effects of \"Mermail Abyssalacia\" once per turn. \n● During your opponent's turn (Quick Effect): You can send 1 card from your hand to the GY; add 1 \"Mermail\" monster from your Deck to your hand. ● If this card in its owner's possession is destroyed by an opponent's attack or card effect: You can send 1 WATER monster from your Deck to the GY, then target 1 WATER monster in your GY; Special Summon it in Defense Position.",
     "sets": [
       {
@@ -809,7 +809,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/AbyssalaciaSR.jpeg",
+        "src": "./Images/AbyssalaciaSR.jpeg",
         "caption": "CR05-AE124 (SR) — Creation Pack 05"
       }
     ]
@@ -826,7 +826,7 @@
     "atk": 3000,
     "def": 0,
     "cardcode": "01340142",
-    "image": "/Images/VararQCSR.jpeg",
+    "image": "./Images/VararQCSR.jpeg",
     "effect": "2 monsters, including a \"Vaalmonica\" Link Monster \nUnaffected by card effects, except \"Vaalmonica\" cards, while you have 6 or more Resonance Counters on your field. Gains 1 additional attack during each Battle Phase, for each Level 4 \"Vaalmonica\" monster you control. Once per turn, when your opponent would Special Summon a monster(s), if you have 3+ Resonance Counters on your field (Quick Effect): You can negate the Special Summon, and if you do, destroy that monster(s), then remove 3 Resonance Counters from your field.",
     "sets": [
       {
@@ -856,19 +856,19 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/VararUR.jpeg",
+        "src": "./Images/VararUR.jpeg",
         "caption": "INFO-AE049 (UR) — The Infinite Forbidden"
       },
       {
-        "src": "/Images/VararUL.jpeg",
+        "src": "./Images/VararUL.jpeg",
         "caption": "INFO-AE049 (UL) — The Infinite Forbidden"
       },
       {
-        "src": "/Images/VararScR.jpeg",
+        "src": "./Images/VararScR.jpeg",
         "caption": "INFO-AE049 (ScR) — The Infinite Forbidden"
       },
       {
-        "src": "/Images/VararQCSR.jpeg",
+        "src": "./Images/VararQCSR.jpeg",
         "caption": "INFO-AE049 (QCSR) — The Infinite Forbidden"
       }
     ]
@@ -885,7 +885,7 @@
     "atk": 2000,
     "def": 0,
     "cardcode": "79130389",
-    "image": "/Images/MarincessCoral.jpeg",
+    "image": "./Images/MarincessCoral.jpeg",
     "effect": "2 WATER monsters \nYou can target 1 WATER monster with 1500 or less ATK in your GY; Special Summon it to your zone this card points to, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. If this card is sent from the field to the GY: You can target 1 \"Marincess\" card in your GY, except \"Marincess Coral Anemone\"; add it to your hand. You can only use each effect of \"Marincess Coral Anemone\" once per turn.",
     "sets": [
       {
@@ -897,7 +897,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/MarincessCoral.jpeg",
+        "src": "./Images/MarincessCoral.jpeg",
         "caption": "24AT-AE414 (N) — Tournament Pack 2024 Vol.4"
       }
     ]
@@ -914,7 +914,7 @@
     "atk": 1600,
     "def": 1600,
     "cardcode": "17080584",
-    "image": "/Images/AbyssrineQCSR.jpeg",
+    "image": "./Images/AbyssrineQCSR.jpeg",
     "effect": "(This card is always treated as a \"Mermail\" card.) \nYou can Tribute this card from your hand and 1 \"Atlantean\" or \"Mermail\" monster from your hand or field; take 1 Level 7 Fish, Sea Serpent, or Aqua monster from your Deck and either add it to your hand or Special Summon it, also you cannot Special Summon from the Extra Deck for the rest of this turn, except WATER monsters. During your opponent's turn (Quick Effect): You can banish this card from your GY and discard 1 card to the GY; draw 1 card. You can only use each effect of \"Abyssrhine, the Atlantean Spirit\" once per turn.",
     "sets": [
       {
@@ -938,15 +938,15 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/AbyssrineSR.jpeg",
+        "src": "./Images/AbyssrineSR.jpeg",
         "caption": "ROTA-AE017 (SR) — Rage of the Abyss"
       },
       {
-        "src": "/Images/AbyssrineScR.jpeg",
+        "src": "./Images/AbyssrineScR.jpeg",
         "caption": "ROTA-AE017 (ScR) — Rage of the Abyss"
       },
       {
-        "src": "/Images/AbyssrineQCSR.jpeg",
+        "src": "./Images/AbyssrineQCSR.jpeg",
         "caption": "ROTA-AE017 (QCSR) — Rage of the Abyss"
       }
     ]
@@ -963,7 +963,7 @@
     "atk": 1850,
     "def": 1500,
     "cardcode": "15746348",
-    "image": "/Images/EriaChannelerQCSR.jpeg",
+    "image": "./Images/EriaChannelerQCSR.jpeg",
     "effect": "(This card is always treated as a \"Charmer\" card.) \nYou can discard this card and 1 other WATER monster; add 1 WATER monster from your Deck to your hand with an equal or higher Level than the other discarded monster, also you cannot activate non-WATER monster effects for the rest of this turn. When your WATER monster is destroyed by battle: You can Special Summon this card from your hand. You can only use each effect of \"Eria the Water Channeler\" once per turn.",
     "sets": [
       {
@@ -993,19 +993,19 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/EriaChannelerUR.jpeg",
+        "src": "./Images/EriaChannelerUR.jpeg",
         "caption": "ROTA-AE023 (UR) — Rage of the Abyss"
       },
       {
-        "src": "/Images/EriaChannelerUL.jpeg",
+        "src": "./Images/EriaChannelerUL.jpeg",
         "caption": "ROTA-AE023 (UL) — Rage of the Abyss"
       },
       {
-        "src": "/Images/EriaChannelerScR.jpeg",
+        "src": "./Images/EriaChannelerScR.jpeg",
         "caption": "ROTA-AE023 (ScR) — Rage of the Abyss"
       },
       {
-        "src": "/Images/EriaChannelerQCSR.jpeg",
+        "src": "./Images/EriaChannelerQCSR.jpeg",
         "caption": "ROTA-AE023 (QCSR) — Rage of the Abyss"
       }
     ]
@@ -1022,7 +1022,7 @@
     "atk": 0,
     "def": 0,
     "cardcode": "73413514",
-    "image": "/Images/NeverEndNighAbsN.jpeg",
+    "image": "./Images/NeverEndNighAbsN.jpeg",
     "effect": "Gains 1000 ATK each time your opponent activates a monster effect. If your opponent activates a monster effect in their hand, GY, or banishment (except during the Damage Step): You can Special Summon this card from your GY (if it was there when they activated) or hand (even if not), but destroy it during the End Phase. You can only use this effect of \"Neverending Nightmare Absorber\" once per turn.",
     "sets": [
       {
@@ -1034,7 +1034,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/NeverEndNighAbsN.jpeg",
+        "src": "./Images/NeverEndNighAbsN.jpeg",
         "caption": "ROTA-AE028 (N) — Rage of the Abyss"
       }
     ]
@@ -1051,7 +1051,7 @@
     "atk": 1600,
     "def": 1500,
     "cardcode": "44686185",
-    "image": "/Images/HatsumeN.jpeg",
+    "image": "./Images/HatsumeN.jpeg",
     "effect": "You can banish 2 \"Six Samurai\" monsters from your GY and/or face-up from your field, then target 1 \"Six Samurai\" monster in your GY, except \"Secret Six Samurai - Hatsume\"; Special Summon it. You can only use this effect of \"Secret Six Samurai - Hatsume\" once per turn. If exactly 1 \"Six Samurai\" monster you control (and no other cards) would be destroyed by card effect, you can banish this card from your GY instead.",
     "sets": [
       {
@@ -1063,7 +1063,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/HatsumeN.jpeg",
+        "src": "./Images/HatsumeN.jpeg",
         "caption": "ROTA-AE090 (N) — Rage of the Abyss"
       }
     ]
@@ -1104,11 +1104,11 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/DeepSeaDivaSR.jpeg",
+        "src": "./Images/DeepSeaDivaSR.jpeg",
         "caption": "ROTA-AE094 (SR) — Rage of the Abyss"
       },
       {
-        "src": "/Images/DeepSeaDivaScR.jpeg",
+        "src": "./Images/DeepSeaDivaScR.jpeg",
         "caption": "ROTA-AE094 (ScR) — Rage of the Abyss"
       },
       {
@@ -1129,7 +1129,7 @@
     "atk": 1200,
     "def": 1500,
     "cardcode": "71978434",
-    "image": "/Images/DeepSeaMinstelN.jpeg",
+    "image": "./Images/DeepSeaMinstelN.jpeg",
     "effect": "You can discard this card and 1 WATER monster; look at your opponent's hand and banish 1 card from their hand face-up, until the End Phase. If this card is Special Summoned: You can send the top 3 cards of your Deck to the GY, then target 1 Level 4 or lower WATER monster in your GY, except \"Deep Sea Minstrel\"; place it on the top or bottom of the Deck. You can only use each effect of \"Deep Sea Minstrel\" once per turn.",
     "sets": [
       {
@@ -1141,7 +1141,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/DeepSeaMinstelN.jpeg",
+        "src": "./Images/DeepSeaMinstelN.jpeg",
         "caption": "ROTA-AE097 (N) — Rage of the Abyss"
       }
     ]
@@ -1158,7 +1158,7 @@
     "atk": 1500,
     "def": 2700,
     "cardcode": "50793215",
-    "image": "/Images/DeepSeaPrimaDScR.jpeg",
+    "image": "./Images/DeepSeaPrimaDScR.jpeg",
     "effect": "1 Tuner + 1+ non-Tuner monsters \nYour opponent cannot target a Synchro Monster that used this card as material with monster effects. You can only use each of the following effects of \"Deep Sea Prima Donna\" once per turn. \n● You can target 1 of your opponent's banished cards; add to your hand, or Special Summon, 1 Level 4 or lower WATER monster from your Deck, and if you do, add that target to their hand. \n● If this card is sent to the GY: You can target 1 banished card; shuffle it into the Deck.",
     "sets": [
       {
@@ -1176,11 +1176,11 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/DeepSeaPrimaDSR.jpeg",
+        "src": "./Images/DeepSeaPrimaDSR.jpeg",
         "caption": "ROTA-AE104 (SR) — Rage of the Abyss"
       },
       {
-        "src": "/Images/DeepSeaPrimaDScR.jpeg",
+        "src": "./Images/DeepSeaPrimaDScR.jpeg",
         "caption": "ROTA-AE104 (ScR) — Rage of the Abyss"
       }
     ]
@@ -1197,7 +1197,7 @@
     "atk": 1800,
     "def": 1500,
     "cardcode": "33467872",
-    "image": "/Images/DeepSeaRepeN.jpeg",
+    "image": "./Images/DeepSeaRepeN.jpeg",
     "effect": "\"Deep Sea Diva\" + 1+ non-Tuner monsters \nOnce per turn (Quick Effect): You can discard 1 Level 4 or lower WATER monster; this card gains 800 ATK until the end of this turn. If this Synchro Summoned card is sent to your GY: You can target 1 Level 5 or higher WATER monster in your GY, except \"Deep Sea Repetiteur\"; Special Summon it in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. You can only use this effect of \"Deep Sea Repetiteur\" once per turn.",
     "sets": [
       {
@@ -1209,7 +1209,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/DeepSeaRepeN.jpeg",
+        "src": "./Images/DeepSeaRepeN.jpeg",
         "caption": "ROTA-AE105 (N) — Rage of the Abyss"
       }
     ]
@@ -1256,11 +1256,11 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/EriaGentleUL.jpeg",
+        "src": "./Images/EriaGentleUL.jpeg",
         "caption": "ROTA-AE112 (UR) — Rage of the Abyss"
       },
       {
-        "src": "/Images/EriaGentleUL.jpeg",
+        "src": "./Images/EriaGentleUL.jpeg",
         "caption": "ROTA-AE112 (UL) — Rage of the Abyss"
       },
       {
@@ -1314,7 +1314,7 @@
     "atk": 1700,
     "def": 1800,
     "cardcode": "20001443",
-    "image": "/Images/MoyeN.jpeg",
+    "image": "./Images/MoyeN.jpeg",
     "effect": "If this card is Normal or Special Summoned: You can reveal 1 \"Swordsoul\" card or 1 Wyrm monster in your hand; Special Summon 1 \"Swordsoul Token\" (Wyrm/Tuner/WATER/Level 4/ATK 0/DEF 0). While that Token is in the Monster Zone, the player who Summoned it cannot Special Summon from the Extra Deck, except Synchro Monsters. If this card is sent to the GY as Synchro Material: You can draw 1 card. You can only use each effect of \"Swordsoul of Mo Ye\" once per turn.",
     "sets": [
       {
@@ -1326,7 +1326,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/MoyeN.jpeg",
+        "src": "./Images/MoyeN.jpeg",
         "caption": "DI02-AE001 (N) — Duel-Ignition Deck: Swordsoul"
       }
     ]
@@ -1367,11 +1367,11 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/CielaSR.jpeg",
+        "src": "./Images/CielaSR.jpeg",
         "caption": "SLF1-AE041 (N) — Selection 5: Quarter Century Edition"
       },
       {
-        "src": "/Images/CielaSR.jpeg",
+        "src": "./Images/CielaSR.jpeg",
         "caption": "SLF1-AE041 (SR) — Selection 5: Quarter Century Edition"
       },
       {
@@ -1428,15 +1428,15 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/ShizukuPN.jpeg",
+        "src": "./Images/ShizukuPN.jpeg",
         "caption": "SLF1-AE044 (P-N) — Selection 5: Quarter Century Edition"
       },
       {
-        "src": "/Images/ShizukuUR.jpeg",
+        "src": "./Images/ShizukuUR.jpeg",
         "caption": "SLF1-AE044 (UR) — Selection 5: Quarter Century Edition"
       },
       {
-        "src": "/Images/ShizukuUL.jpeg",
+        "src": "./Images/ShizukuUL.jpeg",
         "caption": "SLF1-AE044 (UL) — Selection 5: Quarter Century Edition"
       },
       {
@@ -1448,11 +1448,11 @@
         "caption": "SLF1-AE044 (QCSR) — Selection 5: Quarter Century Edition"
       },
       {
-        "src": "/Images/ShizukuPNALT.jpeg",
+        "src": "./Images/ShizukuPNALT.jpeg",
         "caption": "SLF1-AE044 (P-N) — Selection 5: Quarter Century Edition Alt. Art"
       },
       {
-        "src": "/Images/ShizukuULALT.jpeg",
+        "src": "./Images/ShizukuULALT.jpeg",
         "caption": "SLF1-AE044 (UL) — Selection 5: Quarter Century Edition Alt. Art"
       },
       {
@@ -1476,7 +1476,7 @@
     "atk": 500,
     "def": 1600,
     "cardcode": "13171876",
-    "image": "/Images/LaundryScR.jpeg",
+    "image": "./Images/LaundryScR.jpeg",
     "effect": "If this card is Normal or Special Summoned: You can send the top 3 cards of your Deck to the GY. At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 7 \"Dragonmaid\" monster from your hand or GY. You can only use each effect of \"Laundry Dragonmaid\" once per turn.",
     "sets": [
       {
@@ -1500,15 +1500,15 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/LaundryN.jpeg",
+        "src": "./Images/LaundryN.jpeg",
         "caption": "SLF1-AE065 (N) — Selection 5: Quarter Century Edition"
       },
       {
-        "src": "/Images/LaundrySR.jpeg",
+        "src": "./Images/LaundrySR.jpeg",
         "caption": "SLF1-AE065 (SR) — Selection 5: Quarter Century Edition"
       },
       {
-        "src": "/Images/LaundryScR.jpeg",
+        "src": "./Images/LaundryScR.jpeg",
         "caption": "SLF1-AE065 (ScR) — Selection 5: Quarter Century Edition"
       }
     ]
@@ -1525,7 +1525,7 @@
     "atk": 500,
     "def": 500,
     "cardcode": "20050865",
-    "image": "/Images/citreeN.jpeg",
+    "image": "./Images/citreeN.jpeg",
     "effect": "During your opponent's Main or Battle Phase (Quick Effect): You can target 1 non-Tuner in your GY; Special Summon it, but its effects are negated (if any), then immediately after this effect resolves, Synchro Summon 1 Machine Synchro Monster using only that monster and this card. These Synchro Materials are banished instead of being sent to the GY. You can only use this effect of \"Crystron Citree\" once per turn.",
     "sets": [
       {
@@ -1537,7 +1537,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/citreeN.jpeg",
+        "src": "./Images/citreeN.jpeg",
         "caption": "CR06-AE074 (N) — Creation Pack 06"
       }
     ]
@@ -1554,7 +1554,7 @@
     "atk": 2500,
     "def": 1500,
     "cardcode": "76359406",
-    "image": "/Images/AmetrixN.jpeg",
+    "image": "./Images/AmetrixN.jpeg",
     "effect": "1 Tuner + 1 or more non-Tuner monsters \nIf this card is Synchro Summoned: You can change all face-up Special Summoned monsters your opponent controls to Defense Position. If this Synchro Summoned card is destroyed by battle or card effect: You can target 1 \"Crystron\" monster in your Graveyard, except a Synchro Monster; Special Summon it.",
     "sets": [
       {
@@ -1566,7 +1566,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/AmetrixN.jpeg",
+        "src": "./Images/AmetrixN.jpeg",
         "caption": "CR06-AE082 (N) — Creation Pack 06"
       }
     ]
@@ -1583,7 +1583,7 @@
     "atk": 1500,
     "def": 2500,
     "cardcode": "18494511",
-    "image": "/Images/ICEjadeRanAEGQCSR.jpeg",
+    "image": "./Images/ICEjadeRanAEGQCSR.jpeg",
     "effect": "This card's name becomes \"Icejade Cenote Enion Cradle\" while equipped with an Equip Card. You can discard 1 other \"Icejade\" card or WATER monster; Special Summon this card from your hand, then you can Special Summon 1 \"Icejade Token\" (Aqua/WATER/Level 3/ATK 0/DEF 0). While that Token is in the Monster Zone, the player who Summoned it cannot Special Summon from the Extra Deck, except WATER monsters. You can only use this effect of \"Icejade Ran Aegirine\" once per turn.",
     "sets": [
       {
@@ -1619,23 +1619,23 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/ICEjadeRanAEGUR.jpeg",
+        "src": "./Images/ICEjadeRanAEGUR.jpeg",
         "caption": "CR06-AE082 (UR) — Creation Pack 06"
       },
       {
-        "src": "/Images/ICEjadeRanAEGScR.jpeg",
+        "src": "./Images/ICEjadeRanAEGScR.jpeg",
         "caption": "CR06-AE082 (ScR) — Creation Pack 06"
       },
       {
-        "src": "/Images/ICEjadeRanAEGQCSR.jpeg",
+        "src": "./Images/ICEjadeRanAEGQCSR.jpeg",
         "caption": "CR06-AE082 (QCSR) — Creation Pack 06"
       },
       {
-        "src": "/Images/ICEjadeRanAEGURAES.jpeg",
+        "src": "./Images/ICEjadeRanAEGURAES.jpeg",
         "caption": "CR06-AES30 (UR) — Creation Pack 06 +1 Bonus Pack"
       },
       {
-        "src": "/Images/ICEjadeRanAEGQCSRAES.jpeg",
+        "src": "./Images/ICEjadeRanAEGQCSRAES.jpeg",
         "caption": "CR06-AES30 (QCSR) — Creation Pack 06 +1 Bonus Pack"
       }
     ]
@@ -1652,7 +1652,7 @@
     "atk": 1400,
     "def": 0,
     "cardcode": "64257161",
-    "image": "/Images/GBMeanMerR.jpeg",
+    "image": "./Images/GBMeanMerR.jpeg",
     "effect": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Goblin\" monster from your hand, except \"Goblin Biker Mean Merciless\". During your Main Phase, if this card is in your GY: You can detach 1 Xyz Material from a monster on either field, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Goblin Biker Mean Merciless\" once per turn.",
     "sets": [
       {
@@ -1664,7 +1664,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/GBMeanMerR.jpeg",
+        "src": "./Images/GBMeanMerR.jpeg",
         "caption": "PHNI-AE011 (R) — Phantom Nightmare"
       }
     ]
@@ -1681,7 +1681,7 @@
     "atk": 1900,
     "def": 2700,
     "cardcode": "65892585",
-    "image": "/Images/chariotcariSR.jpeg",
+    "image": "./Images/chariotcariSR.jpeg",
     "effect": "2 Level 3 monsters \nYou can detach 1 material from this card; add 1 \"Gold Pride\" Spell from your Deck to your hand, then if your LP are lower than your opponent's, you can send 1 \"Gold Pride\" monster from your Deck to the GY. You can only use the previous effect of \"Gold Pride - Chariot Carrie\" once per turn. Once per turn, during the End Phase, if the previous effect was activated this turn: Return this card to the Extra Deck, and if you do, Special Summon 1 \"Gold Pride - Captain Carrie\" from your Deck or GY.",
     "sets": [
       {
@@ -1693,7 +1693,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/chariotcariSR.jpeg",
+        "src": "./Images/chariotcariSR.jpeg",
         "caption": "CR04-AE054 (SR) — Creation Pack 04"
       }
     ]
@@ -1710,7 +1710,7 @@
     "atk": 2100,
     "def": 2800,
     "cardcode": "09453320",
-    "image": "/Images/AbysstriteSpiritQCSR.jpeg",
+    "image": "./Images/AbysstriteSpiritQCSR.jpeg",
     "effect": "2+ Level 7 WATER monsters \nWATER monsters you control gain 300 ATK/DEF for each material attached to this card. You can only use each of the following effects of \"Abysstrite, the Atlantean Spirit\" once per turn. If this card is Xyz Summoned: You can target 1 Level 7 or lower Fish, Sea Serpent, or Aqua monster in your GY; Special Summon it. You can detach 1 material from this card; Set 1 \"Abyss-\" Trap from your Deck.",
     "sets": [
       {
@@ -1734,15 +1734,15 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/AbysstriteSpiritSR.jpeg",
+        "src": "./Images/AbysstriteSpiritSR.jpeg",
         "caption": "SUDA-AE046 (SR) — Supreme Darkness"
       },
       {
-        "src": "/Images/AbysstriteSpiritScR.jpeg",
+        "src": "./Images/AbysstriteSpiritScR.jpeg",
         "caption": "SUDA-AE046 (ScR) — Supreme Darkness"
       },
       {
-        "src": "/Images/AbysstriteSpiritQCSR.jpeg",
+        "src": "./Images/AbysstriteSpiritQCSR.jpeg",
         "caption": "SUDA-AE046 (QCSR) — Supreme Darkness"
       }
     ]
@@ -1759,7 +1759,7 @@
     "atk": 2400,
     "def": 1200,
     "cardcode": "94380860",
-    "image": "/Images/N103CR.jpeg",
+    "image": "./Images/N103CR.jpeg",
     "effect": "2 Level 4 monsters \nOnce per turn (Quick Effect): You can detach 1 material from this card, then target 1 Attack Position monster your opponent controls, whose current ATK is different from its original ATK; destroy it, and if you do, draw 1 card.",
     "sets": [
       {
@@ -1783,15 +1783,15 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/N103N.jpeg",
+        "src": "./Images/N103N.jpeg",
         "caption": "DBCB-AE011 (N) — Deck-Build Pack: Crossover Breakers"
       },
       {
-        "src": "/Images/N103PN.jpeg",
+        "src": "./Images/N103PN.jpeg",
         "caption": "DBCB-AE011 (P-N) — Deck-Build Pack: Crossover Breakers"
       },
       {
-        "src": "/Images/N103CR.jpeg",
+        "src": "./Images/N103CR.jpeg",
         "caption": "DBCB-AE011 (CR) — Deck-Build Pack: Crossover Breakers"
       }
     ]
@@ -1808,7 +1808,7 @@
     "atk": 1200,
     "def": 2000,
     "cardcode": "12369277",
-    "image": "/Images/BluelayerUR.jpeg",
+    "image": "./Images/BluelayerUR.jpeg",
     "effect": "When this card is Normal or Special Summoned: You can add 1 \"Super Quant\" card from your Deck to your hand, except \"Super Quantum Blue Layer\". If this card is sent to the Graveyard: You can target up to 3 \"Super Quant\" cards in your Graveyard; shuffle them into the Deck. You can only use each effect of \"Super Quantum Blue Layer\" once per turn.",
     "sets": [
       {
@@ -1826,11 +1826,11 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/BluelayerUR.jpeg",
+        "src": "./Images/BluelayerUR.jpeg",
         "caption": "CR08-AE084 (UR) — Creation Pack 08"
       },
       {
-        "src": "/Images/BluelayerURAES.jpeg",
+        "src": "./Images/BluelayerURAES.jpeg",
         "caption": "CR08-AES25 (UR) — Creation Pack 08 +1 Bonus Pack"
       }
     ]
@@ -1865,7 +1865,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/FaimenaSR.jpeg",
+        "src": "./Images/FaimenaSR.jpeg",
         "caption": "DBJH-AE002 (SR) — Deck-Build Pack: Justice Hunters"
       },
       {
@@ -1886,7 +1886,7 @@
     "atk": 500,
     "def": 500,
     "cardcode": "57707471",
-    "image": "/Images/N21PN.jpeg",
+    "image": "./Images/N21PN.jpeg",
     "effect": "2 Level 6 monsters \nYou can also Xyz Summon this card by detaching 1 Xyz Material from a Rank 5 Xyz Monster you control, then using that Xyz Monster as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) This card gains 1000 ATK for each Xyz Material attached to it. Once per turn: You can detach 1 Xyz Material from this card; destroy all Defense Position monsters your opponent controls.",
     "sets": [
       {
@@ -1904,11 +1904,11 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/N21N.jpeg",
+        "src": "./Images/N21N.jpeg",
         "caption": "DBJH-AE055 (N) — Deck-Build Pack: Justice Hunters"
       },
       {
-        "src": "/Images/N21PN.jpeg",
+        "src": "./Images/N21PN.jpeg",
         "caption": "DBJH-AE055 (P-N) — Deck-Build Pack: Justice Hunters"
       }
     ]
@@ -1925,7 +1925,7 @@
     "atk": 1100,
     "def": 400,
     "cardcode": "28115467",
-    "image": "/Images/misolfaelitN.jpeg",
+    "image": "./Images/misolfaelitN.jpeg",
     "effect": "Pendulum Effect \nPendulum Summons of your\"Solfachord\" Pendulum Monsters cannot be negated. \nMonster Effect \nWhile you have an even Pendulum Scale in your Pendulum Zone, you take no damage from battles involving your \"Solfachord\" Pendulum Monsters. If this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; return it to the hand. You can only use this effect of \"MiSolfachord Eliteia\" once per turn.",
     "sets": [
       {
@@ -1937,7 +1937,7 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/misolfaelitN.jpeg",
+        "src": "./Images/misolfaelitN.jpeg",
         "caption": "CR09-AE062 (N) — Creation Pack 09"
       }
     ]
@@ -1954,7 +1954,7 @@
     "atk": 2100,
     "def": 1400,
     "cardcode": "91598270",
-    "image": "/Images/solsolfagraScR.jpeg",
+    "image": "./Images/solsolfagraScR.jpeg",
     "effect": "Pendulum Effect \nPendulum Summons of your\"Solfachord\" Pendulum Monsters cannot be negated. \nMonster Effect \nWhile you have an even Pendulum Scale in your Pendulum Zone, you take no damage from battles involving your \"Solfachord\" Pendulum Monsters. If this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; return it to the hand. You can only use this effect of \"MiSolfachord Eliteia\" once per turn.",
     "sets": [
       {
@@ -1972,11 +1972,11 @@
     ],
     "galleryImages": [
       {
-        "src": "/Images/solsolfagraSR.jpeg",
+        "src": "./Images/solsolfagraSR.jpeg",
         "caption": "CR09-AE064 (SR) — Creation Pack 09"
       },
       {
-        "src": "/Images/solsolfagraScR.jpeg",
+        "src": "./Images/solsolfagraScR.jpeg",
         "caption": "CR09-AE064 (ScR) — Creation Pack 09"
       }
     ]
@@ -2015,7 +2015,7 @@
         "caption": "CR09-AE092 (SR) — Creation Pack 09"
       },
       {
-        "src": "/Images/RisingscaleSR.jpeg",
+        "src": "./Images/RisingscaleSR.jpeg",
         "caption": "CR09-AES32 (ScR) — Creation Pack 09 +1 Bonus Pack"
       }
     ]
