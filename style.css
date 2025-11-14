@@ -1,0 +1,187 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f7f7f7;
+  margin: 0;
+  color: #222;
+}
+
+/* Header */
+header {
+  background-color: #f2f2f2;
+  border-bottom: 2px solid #ccc;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.search-bar {
+  padding: 5px 10px;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  width: 250px;
+}
+
+.set-header {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.set-header h1 {
+  background-color: #cce0ff;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 6px;
+  border: 1px solid #99b3ff;
+}
+
+.list-links {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.card-list {
+  width: 90%;
+  margin: 30px auto;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.card-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.card-list th, .card-list td {
+  border: 1px solid #ccc;
+  padding: 8px 10px;
+  text-align: left;
+}
+
+.card-list th {
+  background-color: #e6e6e6;
+}
+
+.card-list tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.card-list a {
+  color: #0044cc;
+  text-decoration: none;
+}
+
+.card-list a:hover {
+  text-decoration: underline;
+}
+
+/* Main Box */
+.card-box {
+  background-color: #ffe6cc;
+  border: 2px solid #ccc;
+  width: 80%;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card-content {
+  display: flex;
+  gap: 20px;
+}
+
+.card-image {
+  width: 250px;           /* lebar tetap */
+  height: 365px;          /* tinggi sesuai rasio kartu asli */
+  object-fit: cover;      /* pastikan gambar memenuhi area tanpa distorsi aneh */
+  border: 2px solid #aaa;
+  border-radius: 8px;     /* sedikit membulat biar lebih realistis */
+}
+
+.card-details {
+  flex: 1;
+}
+
+.effect {
+  background-color: #fff3e6;
+  border-left: 4px solid #ff9933;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+/* Gallery link */
+.gallery-link {
+  text-align: center;
+  margin: 20px;
+}
+
+.gallery-link a {
+  font-size: 18px;
+  color: #0044cc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Set info */
+.set-info {
+  width: 80%;
+  margin: 30px auto;
+}
+
+.set-info table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+.set-info th, .set-info td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.set-info th {
+  background-color: #e6e6e6;
+}
+
+/* Gallery page */
+.gallery-page {
+  width: 80%;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.gallery-grid {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.gallery-item {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  width: 250px;
+}
+
+.gallery-item img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.back-link {
+  display: inline-block;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #0044cc;
+  font-weight: bold;
+}

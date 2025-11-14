@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Card Details</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="logo">YugiohList Asian-English</div>
+    <input type="text" class="search-bar" placeholder="Search card..." />
+  </header>
+
+  <!-- Main Card Info Box -->
+  <main>
+    <section class="card-box">
+      <h1 id="card-name">Loading...</h1>
+      <div class="card-content">
+        <img id="card-image" class="card-image" alt="Card Image">
+        <div class="card-details" id="card-details"></div>
+      </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section class="gallery-link">
+      <a id="gallery-link" href="gallery.html">Gallery</a>
+    </section>
+
+    <!-- Set Info -->
+    <section class="set-info">
+      <a id="back-link" href="List.html" class="back-link">Back to List Page</a>
+      <h2>Asian-English</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Release</th>
+            <th>Number</th>
+            <th>Set</th>
+            <th>Rarity</th>
+          </tr>
+        </thead>
+        <tbody id="set-table-body"></tbody>
+      </table>
+    </section>
+  </main>
+
+  <script>
+    // Ambil ID dari URL
+    const params = new URLSearchParams(window.location.search);
+    const cardId = params.get("id");
+
+    // Ambil data dari JSON
+    fetch("/data/cards.json")
+      .then(response => response.json())
+      .then(data => {
+        const card = data[cardId];
+
+        if (!card) {
+          document.getElementById("card-name").textContent = "Card not found!";
+          return;
+        }
+
+        // Isi data kartu
+        document.title = card.name + " - Yugipedia Clone";
+        document.getElementById("card-name").textContent = card.name;
+        document.getElementById("card-image").src = card.image;
+
+        // Detail teks
+        const detailsHTML = `
+          <p><b>Japanese:</b> ${card.japanese}</p>
+          <p><b>Rōmaji:</b> ${card.romaji}</p>
+          <p><b>Card type:</b> ${card.cardType}</p>
+          <p><b>Attribute:</b> ${card.attribute}</p>
+          <p><b>Types:</b> ${card.types}</p>
+          <p><b>Level:</b> ${card.level}</p>
+          <p><b>ATK / DEF:</b> ${card.atk} / ${card.def}</p>
+          <p><b>Card code:</b> ${card.cardcode}</p>
+          <p class="effect">${card.effect}</p>
+        `;
+        document.getElementById("card-details").innerHTML = detailsHTML;
+
+        // Link ke gallery
+        document.getElementById("gallery-link").href = `gallery.html?id=${cardId}`;
+
+        // Isi tabel set info
+        const tbody = document.getElementById("set-table-body");
+        tbody.innerHTML = card.sets.map(set => `
+          <tr>
+            <td>${set.release}</td>
+            <td><a href="#">${set.number}</a></td>
+            <td><a href="#">${set.set}</a></td>
+            <td>${set.rarity}</td>
+          </tr>
+        `).join("");
+      })
+      .catch(err => {
+        console.error("Error loading card data:", err);
+      });
+  </script>
+
+</body>
+</html>

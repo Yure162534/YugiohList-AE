@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Card Gallery - Yugipedia Clone</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="logo">YugiohList Asian English</div>
+    <input type="text" class="search-bar" placeholder="Search card..." />
+  </header>
+
+  <!-- Main Gallery -->
+  <main>
+    <section class="gallery-page">
+      <h1 id="gallery-title">Loading...</h1>
+      <div class="gallery-grid" id="gallery-grid"></div>
+      <a id="back-link" href="Card.html" class="back-link">← Back to Card Page</a>
+    </section>
+  </main>
+
+  <script>
+    // Ambil ID kartu dari URL
+    const params = new URLSearchParams(window.location.search);
+    const cardId = params.get("id");
+
+    // Ambil data dari JSON
+    fetch("data/cards.json")
+      .then(response => response.json())
+      .then(data => {
+        const card = data[cardId];
+
+        if (!card) {
+          document.getElementById("gallery-title").textContent = "Card not found!";
+          return;
+        }
+
+        // Ubah judul
+        document.title = `${card.name} Gallery - Yugipedia Clone`;
+        document.getElementById("gallery-title").textContent = `${card.name} Gallery`;
+
+        // Isi galeri
+        const galleryGrid = document.getElementById("gallery-grid");
+
+        // Kalau punya banyak gambar, pakai array `galleryImages`
+        if (card.galleryImages && card.galleryImages.length > 0) {
+          galleryGrid.innerHTML = card.galleryImages.map(img => `
+            <div class="gallery-item">
+              <img src="${img.src}" alt="${card.name}">
+              <p>${img.caption}</p>
+            </div>
+          `).join("");
+        } else {
+          // Kalau tidak ada data tambahan
+          galleryGrid.innerHTML = `<p>No gallery images found for this card.</p>`;
+        }
+
+        // Link kembali ke halaman card
+        document.getElementById("back-link").href = `card.html?id=${cardId}`;
+      })
+      .catch(err => {
+        console.error("Error loading card data:", err);
+      });
+  </script>
+
+</body>
+</html>
