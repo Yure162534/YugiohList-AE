@@ -53,7 +53,7 @@
     const cardId = params.get("id");
 
     // Ambil data dari JSON
-    fetch("/data/cards.json")
+    fetch("./data/cards.json")
       .then(response => response.json())
       .then(data => {
         const card = data[cardId];
