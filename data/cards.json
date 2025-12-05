@@ -61,7 +61,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/shinonome.jpeg",
+        "src": "./MyImages/ShinonomeSR.jpeg",
         "caption": "CR01-AE137 (SR) — Creation Pack 01"
       }
     ]
@@ -78,7 +78,7 @@
     "atk": 0,
     "def": 0,
     "cardcode": "54862960",
-    "image": "./Images/ninimikanko.jpeg",
+    "image": "./MyImages/Ni-NiMikankoSR.jpeg",
     "effect": "If this card is not equipped with an Equip Card, you take no damage from battles involving this card. If this card is equipped with an Equip Card, it cannot be destroyed by battle and your opponent takes any battle damage you would have taken from battles involving this card. During your opponent's turn, while this card is equipped with an Equip Card (Quick Effect): You can target 1 face-up monster your opponent controls; take control of it until the End Phase. You can only use this effect of \"Ni-Ni the Mirror Mikanko\" once per turn.",
     "sets": [
       {
@@ -90,11 +90,12 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/ninimikanko.jpeg",
+        "src": "./MyImages/Ni-NiMikankoSR.jpeg",
         "caption": "CR01-AE190 (SR) — Creation Pack 01"
       }
-    ]
+      ]
   },
+
 
   "rikka-petal": {
     "name": "Rikka Petal",
@@ -107,7 +108,7 @@
     "atk": 0,
     "def": 0,
     "cardcode": "71734607",
-    "image": "./Images/RikkaPetalScR.jpeg",
+    "image": "./MyImages/RikkaPetalScR.jpeg",
     "effect": "During your Main Phase: You can take 1 \"Rikka\" monster from your Deck, except \"Rikka Petal\", and either add it to your hand or send it to the GY, also you cannot Special Summon for the rest of this turn, except Plant monsters. During your opponent's End Phase, while this card is in your GY, if you control no monsters or all monsters you control are Plant monsters: You can Special Summon this card. You can only use each effect of \"Rikka Petal\" once per turn.",
     "sets": [
       {
@@ -131,15 +132,15 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/RikkaPetalUR.jpeg",
+        "src": "./MyImages/RikkaPetalUR.jpeg",
         "caption": "CR03-AE168 (UR) — Creation Pack 03"
       },
       {
-        "src": "./Images/RikkaPetalScR.jpeg",
+        "src": "./MyImages/RikkaPetalScR.jpeg",
         "caption": "CR03-AE168 (ScR) — Creation Pack 03"
       },
       {
-        "src": "./Images/RikkaPetalURAES.jpeg",
+        "src": "./MyImages/RikkaPetalUR_AES.jpeg",
         "caption": "CR03-AES23 (UR) — Creation Pack 03 +1 Bonus Pack"
       }
     ]
@@ -156,7 +157,7 @@
     "atk": 800,
     "def": 1800,
     "cardcode": "08129306",
-    "image": "./Images/PrimulaRikka.jpeg",
+    "image": "./MyImages/PrimulaSR.jpeg",
     "effect": "If a monster you control is Tributed (except during the Damage Step): You can Special Summon this card from your hand in Defense Position. You can target up to 2 Plant monsters you control; increase their Level(s) by 2 until the end of this turn. You can only use each effect of \"Primula the Rikka Fairy\" once per turn.",
     "sets": [
       {
@@ -168,7 +169,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/PrimulaRikka.jpe",
+        "src": "./MyImages/PrimulaSR.jpeg",
         "caption": "CR03-AE169 (SR) — Creation Pack 03"
       }
     ]
@@ -185,7 +186,7 @@
     "atk": 1800,
     "def": 800,
     "cardcode": "34614910",
-    "image": "./Images/CyclamenRikka.jpeg",
+    "image": "./MyImages/CyclamenR.jpeg",
     "effect": "You can Tribute this card from your hand or face-up field, then target up to 2 Plant monsters you control; reduce their Level(s) by 2 until the end of this turn. During the End Phase, if this card is in the GY because it was Tributed and sent there this turn: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Cyclamen the Rikka Fairy\" once per turn.",
     "sets": [
       {
@@ -197,7 +198,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/CyclamenRikka.jpeg",
+        "src": "./MyImages/CyclamenR.jpeg",
         "caption": "CR03-AE170 (R) — Creation Pack 03"
       }
     ]
@@ -214,7 +215,7 @@
     "atk": 0,
     "def": 0,
     "cardcode": "00132308",
-    "image": ".Images/Rikka Princess SE.jpg",
+    "image": "./MyImages/RikkaPrincessSE.jpg",
     "effect": "During your Main Phase: You can Special Summon this card from your hand, but while it is face-up in the Monster Zone, you cannot Special Summon monsters, except Plant monsters. When your opponent activates a monster effect, while you control a \"Rikka\" monster (Quick Effect): You can shuffle this card from your hand or GY into the Deck and Tribute 1 Plant monster; negate that effect. You can only use each effect of \"Rikka Princess\" once per turn.",
     "sets": [
       {
@@ -232,11 +233,11 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/Rikka Princess SR.jpg",
+        "src": "./MyImages/RikkaPrincessSR.jpg",
         "caption": "CR03-AE171 (SR) — Creation Pack 03"
       },
       {
-        "src": "./Images/Rikka Princess SE.jpg",
+        "src": "./MyImages/RikkaPrincessSE.jpg",
         "caption": "CR03-AES24 (ScR) — Creation Pack 03 +1 Bonus Pack"
       }
     ]
@@ -253,7 +254,7 @@
     "atk": 1000,
     "def": 2400,
     "cardcode": "71002019",
-    "image": "./Images/Mudan Rikka SR.jpg",
+    "image": "./MyImages/MudanSR.jpg",
     "effect": "You can Tribute 1 Plant monster; Special Summon this card from your hand. If this card is Normal Summoned, or Special Summoned by the effect of a Plant monster: You can add 1 \"Rikka\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Mudan the Rikka Fairy\" once per turn.",
     "sets": [
       {
@@ -265,7 +266,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/Mudan Rikka SR.jpg",
+        "src": "./MyImages/MudanSR.jpg",
         "caption": "CR03-AE172 (SR) — Creation Pack 03"
       }
     ]
@@ -282,7 +283,7 @@
     "atk": 2400,
     "def": 1000,
     "cardcode": "07407724",
-    "image": "./Images/Erica Rikka SR.jpg",
+    "image": "./MyImages/EricaSR.jpg",
     "effect": "When an attack is declared involving another Plant monster you control: You can Tribute this card from your hand or face-up field; that monster you control gains 1000 ATK/DEF until the end of this turn. If a Plant monster(s) you control is Tributed, while this card is in your GY (except during the Damage Step): You can Special Summon this card in Defense Position, but banish it when it leaves the field. You can only use each effect of \"Erica the Rikka Fairy\" once per turn.",
     "sets": [
       {
@@ -294,7 +295,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/Erica Rikka SR.jpg",
+        "src": "./MyImages/EricaSR.jpg",
         "caption": "CR03-AE173 (R) — Creation Pack 03"
       }
     ]
@@ -311,7 +312,7 @@
     "atk": 1200,
     "def": 2600,
     "cardcode": "33491462",
-    "image": "./Images/Snowdrop Rikka UR AES.jpg",
+    "image": "./MyImages/SnowdropUR_AES.jpg",
     "effect": "You can Tribute 1 Plant monster; Special Summon both this card and 1 other Plant monster from your hand, also you cannot Special Summon for the rest of this turn, except Plant monsters. You can target 1 Plant monster you control; all Plant monsters you currently control become that monster's Level until the end of this turn. You can only use each effect of \"Snowdrop the Rikka Fairy\" once per turn.",
     "sets": [
       {
@@ -329,11 +330,11 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/Snowdrop Rikka UR AES.jpg",
+        "src": "./MyImages/SnowdropUR.jpg",
         "caption": "CR03-AE174 (UR) — Creation Pack 03"
       },
       {
-        "src": "./Images/Snowdrop Rikka UR.jpg",
+        "src": "./MyImages/SnowdropUR_AES.jpg",
         "caption": "CR03-AES25 (UR) — Creation Pack 03 +1 Bonus Pack"
       }
     ]
@@ -350,7 +351,7 @@
     "atk": 2600,
     "def": 1200,
     "cardcode": "60880471",
-    "image": "./Images/Hellebore Rikka N.jpg",
+    "image": "./MyImages/HelleboreN.jpg",
     "effect": "When your opponent activates a monster effect that targets a monster(s) you control, while you control a \"Rikka\" monster (Quick Effect): You can Tribute this card from your hand or face-up field; negate that effect. If this card is in your GY: You can Tribute 1 Plant monster; Special Summon this card in Defense Position, but banish it when it leaves the field. You can only use each effect of \"Hellebore the Rikka Fairy\" once per turn.",
     "sets": [
       {
@@ -362,7 +363,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/Hellebore Rikka N.jpg",
+        "src": "./MyImages/HelleboreN.jpg",
         "caption": "CR03-AE175 (N) — Creation Pack 03"
       }
     ]
@@ -379,7 +380,7 @@
     "atk": 2000,
     "def": 2000,
     "cardcode": "03828844",
-    "image": "./Images/Rikka Strenna SR.jpg",
+    "image": "./MyImages/StrennaSR.jpg",
     "effect": "2 Level 4 monsters \nYou can detach 1 material from this card, then target 1 Plant monster or \"Rikka\" card in your GY; add it to your hand. If this card with Xyz Material is Tributed: You can Special Summon 1 Rank 5 or higher Plant Xyz Monster from your Extra Deck or GY, then you can attach this card to it as material. You can only use each effect of \"Rikka Queen Strenna\" once per turn.",
     "sets": [
       {
@@ -391,7 +392,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/Rikka Strenna SR.jpg",
+        "src": "./MyImages/StrennaSR.jpg",
         "caption": "CR03-AE176 (SR) — Creation Pack 03"
       }
     ]
@@ -408,7 +409,7 @@
     "atk": 2400,
     "def": 2400,
     "cardcode": "06284176",
-    "image": "./Images/Kanzhasi Rikka SR.jpg",
+    "image": "./MyImages/KanzhasiSR.jpg",
     "effect": "2 Level 6 monsters \nIf a monster(s) is Tributed (except during the Damage Step): You can detach 1 material from this card, then target 1 monster in either GY; Special Summon it, but negate its effects, also it becomes a Plant monster. If a Plant monster(s) you control would be destroyed by a card effect, you can Tribute 1 Plant monster from your hand or field instead. You can only use each effect of \"Kanzashi the Rikka Queen\" once per turn.",
     "sets": [
       {
@@ -420,7 +421,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/Kanzhasi Rikka SR.jpg",
+        "src": "./MyImages/KanzhasiSR.jpg",
         "caption": "CR03-AE177 (SR) — Creation Pack 03"
       }
     ]
@@ -473,7 +474,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/TeardropUR.jpeg",
+        "src": "./MyImages/TeardropUR.jpeg",
         "caption": "CR03-AE178 (UR) — Creation Pack 03"
       },
       {
