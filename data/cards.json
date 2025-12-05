@@ -28,11 +28,11 @@
     ],
     "galleryImages": [
       {
-        "src": "./MyImages/RosemaryScR.jpeg",
+        "src": "./MyImages/RosemarySR.jpeg",
         "caption": "CR03-AE096 (SR) — Creation Pack 03"
       },
       {
-        "src": "./MyImages/RosemarySR.jpeg",
+        "src": "./MyImages/RosemaryScR.jpeg",
         "caption": "CR03-AES17 (ScR) — Creation Pack 03 +1 Bonus Pack"
       }
     ]
@@ -507,7 +507,7 @@
     "atk": 900,
     "def": 1700,
     "cardcode": "96305350",
-    "image": "./Images/CaptCariSR.jpeg",
+    "image": "./MyImages/CaptCarrieScR.jpeg",
     "effect": "If your LP are lower than your opponent's: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Gold Pride\" Trap from your Deck to your hand. If this card is sent to the GY: You can target 1 \"Gold Pride\" monster you control that was Special Summoned from the Extra Deck; banish up to 3 \"Gold Pride\" cards from your GY, and if you do, that monster gains 500 ATK for each card banished this way. You can only use each effect of \"Gold Pride - Captain Carrie\" once per turn.",
     "sets": [
       {
@@ -525,11 +525,11 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/CaptCariSR.jpeg",
+        "src": "./MyImages/CaptCarrieSR.jpeg",
         "caption": "CR04-AE049 (SR) — Creation Pack 04"
       },
       {
-        "src": "./Images/CaptCariScR.jpeg",
+        "src": "./MyImages/CaptCarrieScR.jpeg",
         "caption": "CR04-AES04 (ScR) — Creation Pack 04 +1 Bonus Pack"
       }
     ]
@@ -570,11 +570,11 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/SelettriceSR.jpeg",
+        "src": "./MyImages/SelettriceSR.jpeg",
         "caption": "LEDE-AE022 (SR) — Legacy of Destruction"
       },
       {
-        "src": "./Images/SelettriceScR.jpeg",
+        "src": "./MyImages/SelettriceScR.jpeg",
         "caption": "LEDE-AE022 (ScR) — Legacy of Destruction"
       },
       {
@@ -595,7 +595,7 @@
     "atk": 1500,
     "def": 1200,
     "cardcode": "23899727",
-    "image": "./Images/AbysslindaN.jpeg",
+    "image": "./MyImages/AbysslindeN.jpeg",
     "effect": "If this card on the field is destroyed and sent to the GY: You can Special Summon 1 \"Mermail\" monster from your Deck, except \"Mermail Abysslinde\". You can only use this effect of \"Mermail Abysslinde\" once per turn.",
     "sets": [
       {
@@ -607,7 +607,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/AbysslindaN.jpeg",
+        "src": "./MyImages/AbysslindeN.jpeg",
         "caption": "CR05-AE107 (N) — Creation Pack 05"
       }
     ]
@@ -624,7 +624,7 @@
     "atk": 1400,
     "def": 800,
     "cardcode": "69293721",
-    "image": "./Images/AbyssgundeN.jpeg",
+    "image": "./MyImages/AbyssgundeN.jpeg",
     "effect": "If this card is discarded to the Graveyard: You can target 1 \"Mermail\" monster in your Graveyard, except \"Mermail Abyssgunde\"; Special Summon that target. You can only use the effect of \"Mermail Abyssgunde\" once per turn.",
     "sets": [
       {
@@ -636,7 +636,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/AbyssgundeN.jpeg",
+        "src": "./MyImages/AbyssgundeN.jpeg",
         "caption": "CR05-AE108 (N) — Creation Pack 05"
       }
     ]
@@ -653,7 +653,7 @@
     "atk": 1300,
     "def": 400,
     "cardcode": "96682430",
-    "image": "./Images/AbysshildeN.jpeg",
+    "image": "./MyImages/AbysshildeN.jpeg",
     "effect": "If this card is sent to the Graveyard: You can Special Summon 1 \"Mermail\" monster from your hand, except \"Mermail Abysshilde\". You can only use the effect of \"Mermail Abysshilde\" once per turn.",
     "sets": [
       {
@@ -665,7 +665,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/AbysshildeN.jpeg",
+        "src": "./MyImages/AbysshildeN.jpeg",
         "caption": "CR05-AE109 (N) — Creation Pack 05"
       }
     ]
@@ -682,7 +682,7 @@
     "atk": 1000,
     "def": 200,
     "cardcode": "74298287",
-    "image": "./Images/AbyssdineN.jpeg",
+    "image": "./MyImages/AbyssdineN.jpeg",
     "effect": "When this card is added from your Deck or Graveyard to your hand by a card effect: You can Special Summon this card from your hand. You must control a \"Mermail\" monster to activate and to resolve this effect. When this card is Special Summoned by the effect of a \"Mermail\" monster: You can target 1 Level 3 or lower \"Mermail\" monster in your Graveyard; Special Summon that target. You can only use 1 \"Mermail Abyssdine\" effect per turn, and only once that turn.",
     "sets": [
       {
@@ -694,7 +694,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/AbyssdineN.jpeg",
+        "src": "./MyImages/AbyssdineN.jpeg",
         "caption": "CR05-AE110 (N) — Creation Pack 05"
       }
     ]
@@ -711,7 +711,7 @@
     "atk": 1100,
     "def": 1900,
     "cardcode": "28577986",
-    "image": "./Images/AbyssoceaN.jpeg",
+    "image": "./MyImages/AbyssoceaN.jpeg",
     "effect": "You can target 1 \"Mermail\" monster you control; Special Summon any number of Level 4 or lower \"Mermail\" monsters from your Deck whose combined Levels are less than or equal to the Level of that monster, then send that monster to the Graveyard. You can only use the effect of \"Mermail Abyssocea\" once per turn.",
     "sets": [
       {
@@ -723,7 +723,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/AbyssoceaN.jpeg",
+        "src": "./MyImages/AbyssoceaN.jpeg",
         "caption": "CR05-AE111 (N) — Creation Pack 05"
       }
     ]
@@ -740,7 +740,7 @@
     "atk": 1200,
     "def": 2000,
     "cardcode": "71133680",
-    "image": "./Images/AbyssnereiN.jpeg",
+    "image": "./MyImages/AbyssnereiN.jpeg",
     "effect": "(Quick Effect): You can discard this card, then target 1 WATER monster you control; destroy 1 other WATER monster in your hand or field, and if you do, the targeted monster gains ATK/DEF equal to the destroyed monster's original ATK/DEF, until the end of this turn. If this card is sent from the field to the GY: You can draw 1 card, then discard 1 card. You can only use each effect of \"Mermail Abyssnerei\" once per turn.",
     "sets": [
       {
@@ -752,7 +752,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/AbyssnereiN.jpeg",
+        "src": "./MyImages/AbyssnereiN.jpeg",
         "caption": "CR05-AE112 (N) — Creation Pack 05"
       }
     ]
@@ -769,7 +769,7 @@
     "atk": 1600,
     "def": 2800,
     "cardcode": "59170782",
-    "image": "./Images/AbysstriteSR.jpeg",
+    "image": "./MyImages/AbysstriteSR.jpeg",
     "effect": "3 Level 3 monsters \nDuring either player's turn, when your opponent targets exactly 1 face-up \"Mermail\" monster you control for an attack, or with a Spell/Trap effect that could have targeted this card (except during the Damage Step): You can detach 1 Xyz Material from this card; that attack/effect now targets this card. When this card is destroyed and sent to the Graveyard: You can target 1 \"Mermail\" monster in your Graveyard, except \"Mermail Abysstrite\"; Special Summon that target.",
     "sets": [
       {
@@ -781,7 +781,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/AbysstriteSR.jpeg",
+        "src": "./MyImages/AbysstriteSR.jpeg",
         "caption": "CR05-AE122 (SR) — Creation Pack 05"
       }
     ]
@@ -798,7 +798,7 @@
     "atk": 1600,
     "def": 0,
     "cardcode": "23545031",
-    "image": "./Images/AbyssalaciaSR.jpeg",
+    "image": "./MyImages/AbyssalaciaSR.jpeg",
     "effect": "2 Fish, Sea Serpent, and/or Aqua monsters \nMonsters this card points to gain 500 ATK/DEF. You can only use each of the following effects of \"Mermail Abyssalacia\" once per turn. \n● During your opponent's turn (Quick Effect): You can send 1 card from your hand to the GY; add 1 \"Mermail\" monster from your Deck to your hand. ● If this card in its owner's possession is destroyed by an opponent's attack or card effect: You can send 1 WATER monster from your Deck to the GY, then target 1 WATER monster in your GY; Special Summon it in Defense Position.",
     "sets": [
       {
@@ -810,7 +810,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/AbyssalaciaSR.jpeg",
+        "src": "./MyImages/AbyssalaciaSR.jpeg",
         "caption": "CR05-AE124 (SR) — Creation Pack 05"
       }
     ]
@@ -827,7 +827,7 @@
     "atk": 3000,
     "def": 0,
     "cardcode": "01340142",
-    "image": "./Images/VararQCSR.jpeg",
+    "image": "./MyImages/VararUR.jpeg",
     "effect": "2 monsters, including a \"Vaalmonica\" Link Monster \nUnaffected by card effects, except \"Vaalmonica\" cards, while you have 6 or more Resonance Counters on your field. Gains 1 additional attack during each Battle Phase, for each Level 4 \"Vaalmonica\" monster you control. Once per turn, when your opponent would Special Summon a monster(s), if you have 3+ Resonance Counters on your field (Quick Effect): You can negate the Special Summon, and if you do, destroy that monster(s), then remove 3 Resonance Counters from your field.",
     "sets": [
       {
@@ -857,19 +857,19 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/VararUR.jpeg",
+        "src": "./MyImages/VararUR.jpeg",
         "caption": "INFO-AE049 (UR) — The Infinite Forbidden"
       },
       {
-        "src": "./Images/VararUL.jpeg",
+        "src": "./MyImages/VararUL.jpeg",
         "caption": "INFO-AE049 (UL) — The Infinite Forbidden"
       },
       {
-        "src": "./Images/VararScR.jpeg",
+        "src": "./MyImages/VararScR.jpeg",
         "caption": "INFO-AE049 (ScR) — The Infinite Forbidden"
       },
       {
-        "src": "./Images/VararQCSR.jpeg",
+        "src": "./MyImages/VararQCSR.jpeg",
         "caption": "INFO-AE049 (QCSR) — The Infinite Forbidden"
       }
     ]
@@ -886,7 +886,7 @@
     "atk": 2000,
     "def": 0,
     "cardcode": "79130389",
-    "image": "./Images/MarincessCoral.jpeg",
+    "image": "./MyImages/CoralAnemoneN.jpeg",
     "effect": "2 WATER monsters \nYou can target 1 WATER monster with 1500 or less ATK in your GY; Special Summon it to your zone this card points to, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. If this card is sent from the field to the GY: You can target 1 \"Marincess\" card in your GY, except \"Marincess Coral Anemone\"; add it to your hand. You can only use each effect of \"Marincess Coral Anemone\" once per turn.",
     "sets": [
       {
@@ -898,7 +898,7 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/MarincessCoral.jpeg",
+        "src": "./MyImages/CoralAnemoneN.jpeg",
         "caption": "24AT-AE414 (N) — Tournament Pack 2024 Vol.4"
       }
     ]
@@ -915,7 +915,7 @@
     "atk": 1600,
     "def": 1600,
     "cardcode": "17080584",
-    "image": "./Images/AbyssrineQCSR.jpeg",
+    "image": "./MyImages/AbyssrineQCSR.jpeg",
     "effect": "(This card is always treated as a \"Mermail\" card.) \nYou can Tribute this card from your hand and 1 \"Atlantean\" or \"Mermail\" monster from your hand or field; take 1 Level 7 Fish, Sea Serpent, or Aqua monster from your Deck and either add it to your hand or Special Summon it, also you cannot Special Summon from the Extra Deck for the rest of this turn, except WATER monsters. During your opponent's turn (Quick Effect): You can banish this card from your GY and discard 1 card to the GY; draw 1 card. You can only use each effect of \"Abyssrhine, the Atlantean Spirit\" once per turn.",
     "sets": [
       {
@@ -939,15 +939,15 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/AbyssrineSR.jpeg",
+        "src": "./MyImages/AbyssrineSR.jpeg",
         "caption": "ROTA-AE017 (SR) — Rage of the Abyss"
       },
       {
-        "src": "./Images/AbyssrineScR.jpeg",
+        "src": "./MyImages/AbyssrineScR.jpeg",
         "caption": "ROTA-AE017 (ScR) — Rage of the Abyss"
       },
       {
-        "src": "./Images/AbyssrineQCSR.jpeg",
+        "src": "./MyImages/AbyssrineQCSR.jpeg",
         "caption": "ROTA-AE017 (QCSR) — Rage of the Abyss"
       }
     ]
@@ -964,7 +964,7 @@
     "atk": 1850,
     "def": 1500,
     "cardcode": "15746348",
-    "image": "./Images/EriaChannelerQCSR.jpeg",
+    "image": "./MyImages/EriaChannelerQCSR.jpeg",
     "effect": "(This card is always treated as a \"Charmer\" card.) \nYou can discard this card and 1 other WATER monster; add 1 WATER monster from your Deck to your hand with an equal or higher Level than the other discarded monster, also you cannot activate non-WATER monster effects for the rest of this turn. When your WATER monster is destroyed by battle: You can Special Summon this card from your hand. You can only use each effect of \"Eria the Water Channeler\" once per turn.",
     "sets": [
       {
@@ -994,19 +994,19 @@
     ],
     "galleryImages": [
       {
-        "src": "./Images/EriaChannelerUR.jpeg",
+        "src": "./MyImages/EriaChannelerUR.jpeg",
         "caption": "ROTA-AE023 (UR) — Rage of the Abyss"
       },
       {
-        "src": "./Images/EriaChannelerUL.jpeg",
+        "src": "./MyImages/EriaChannelerUL.jpeg",
         "caption": "ROTA-AE023 (UL) — Rage of the Abyss"
       },
       {
-        "src": "./Images/EriaChannelerScR.jpeg",
+        "src": "./MyImages/EriaChannelerScR.jpeg",
         "caption": "ROTA-AE023 (ScR) — Rage of the Abyss"
       },
       {
-        "src": "./Images/EriaChannelerQCSR.jpeg",
+        "src": "./MyImages/EriaChannelerQCSR.jpeg",
         "caption": "ROTA-AE023 (QCSR) — Rage of the Abyss"
       }
     ]
