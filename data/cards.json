@@ -1620,7 +1620,7 @@
         "caption": "CR06-AE082 (UR) — Creation Pack 06"
       },
       {
-        "src": "./MyImages/RanAegirineSR.jpeg",
+        "src": "./MyImages/RanAegirineScR.jpeg",
         "caption": "CR06-AE082 (ScR) — Creation Pack 06"
       },
       {
@@ -1756,7 +1756,7 @@
     "atk": 2400,
     "def": 1200,
     "cardcode": "94380860",
-    "image": "./MyImages/N103PN.jpeg",
+    "image": "./MyImages/N103CR.jpeg",
     "effect": "2 Level 4 monsters \nOnce per turn (Quick Effect): You can detach 1 material from this card, then target 1 Attack Position monster your opponent controls, whose current ATK is different from its original ATK; destroy it, and if you do, draw 1 card.",
     "sets": [
       {
@@ -2008,11 +2008,11 @@
     ],
     "galleryImages": [
       {
-        "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.png",
+        "src": "./MyImages/RisingScaleSR.jpeg",
         "caption": "CR09-AE092 (SR) — Creation Pack 09"
       },
       {
-        "src": "./MyImages/RisingScaleSR.jpeg",
+        "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.png",
         "caption": "CR09-AES32 (ScR) — Creation Pack 09 +1 Bonus Pack"
       }
     ]
