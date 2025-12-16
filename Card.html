@@ -8,13 +8,12 @@
 </head>
 <body>
 
-  <!-- Header -->
   <header>
     <div class="logo">YugiohList Asian-English</div>
     <input type="text" class="search-bar" placeholder="Search card..." />
   </header>
 
-  <!-- Main Card Info Box -->
+  <!-- Tampilan kartu utama -->
   <main>
     <section class="card-box">
       <h1 id="card-name">Loading...</h1>
@@ -24,12 +23,12 @@
       </div>
     </section>
 
-    <!-- Gallery Section -->
+    <!-- Link ke gallery.html -->
     <section class="gallery-link">
       <a id="gallery-link" href="gallery.html">Gallery</a>
     </section>
 
-    <!-- Set Info -->
+    <!-- Set info -->
     <section class="set-info">
       <a id="back-link" href="list.html" class="back-link">Back to List Page</a>
       <h2>Asian-English</h2>
@@ -64,7 +63,7 @@
         }
 
         // Isi data kartu
-        document.title = card.name + " - Yugipedia Clone";
+        document.title = `${card.name} - YugiohList`;
         document.getElementById("card-name").textContent = card.name;
         document.getElementById("card-image").src = card.image;
 

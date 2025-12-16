@@ -1315,9 +1315,15 @@
     "atk": 1700,
     "def": 1800,
     "cardcode": "20001443",
-    "image": "./MyImages/MoYeN.webp",
+    "image": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
     "effect": "If this card is Normal or Special Summoned: You can reveal 1 \"Swordsoul\" card or 1 Wyrm monster in your hand; Special Summon 1 \"Swordsoul Token\" (Wyrm/Tuner/WATER/Level 4/ATK 0/DEF 0). While that Token is in the Monster Zone, the player who Summoned it cannot Special Summon from the Extra Deck, except Synchro Monsters. If this card is sent to the GY as Synchro Material: You can draw 1 card. You can only use each effect of \"Swordsoul of Mo Ye\" once per turn.",
     "sets": [
+      {
+        "release": "2025-11-15",
+        "number": "TFTV-AE056",
+        "set": "THE FALLEN & THE VIRTUOUS",
+        "rarity": "Secret Rare"
+      },
       {
         "release": "2024-11-30",
         "number": "DI02-AE001",
@@ -1327,8 +1333,12 @@
     ],
     "galleryImages": [
       {
+        "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+        "caption": "TFTV-AE056 (ScR) — THE FALLEN & THE VIRTUOUS"
+      },
+      {
         "src": "./MyImages/MoYeN.webp",
-        "caption": "DI02-AE001 (N) — Duel-Ignition Deck: Swordsoul"
+        "caption": "DI02-AE001 (N ) — Duel-Ignition Deck: Swordsoul"
       }
     ]
   },
@@ -2014,6 +2024,222 @@
       {
         "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
         "caption": "CR09-AES32 (ScR) — Creation Pack 09 +1 Bonus Pack"
+      }
+    ]
+  },
+  "ice-acti": {
+    "name": "Icejade Acti",
+    "japanese": "氷水のアクティ",
+    "romaji": "kōrimizu no akuti",
+    "cardType": "Monster",
+    "attribute": "WATER",
+    "types": "Aqua／Effect",
+    "level": 4,
+    "atk": 1000,
+    "def": 1000,
+    "cardcode": "82777208",
+    "image": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+    "effect": "If this card is Normal or Special Summoned: You can send 1 WATER monster from your hand to the GY; draw 1 card. If a face-up WATER monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can banish this card; Special Summon 1 \"Icejade\" monster from your hand or GY, except \"Icejade Acti\". You can only use each effect of \"Icejade Acti\" once per turn.",
+    "sets": [
+      {
+        "release": "2025-11-15",
+        "number": "TFTV-AE062",
+        "set": "THE FALLEN & THE VIRTUOUS",
+        "rarity": "Normal"
+      }
+    ],
+    "galleryImages": [
+      {
+        "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+        "caption": "TFTV-AE062 (N) — THE FALLEN & THE VIRTUOUS"
+      }
+    ]
+  },
+  "ice-tremora": {
+    "name": "Icejade Tremora",
+    "japanese": "氷水のトレモラ",
+    "romaji": "kōrimizu no toremora",
+    "cardType": "Monster",
+    "attribute": "WATER",
+    "types": "Aqua／Effect",
+    "level": 5,
+    "atk": 1500,
+    "def": 1500,
+    "cardcode": "55151012",
+    "image": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+    "effect": "You can send this card from your hand to the GY; Special Summon 1 WATER monster from your hand. If a face-up WATER monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can banish this card; Special Summon 1 \"Icejade\" monster from your hand or GY, except \"Icejade Tremora\". You can only use each effect of \"Icejade Tremora\" once per turn.",
+    "sets": [
+      {
+        "release": "2025-11-15",
+        "number": "TFTV-AE064",
+        "set": "THE FALLEN & THE VIRTUOUS",
+        "rarity": "Normal"
+      }
+    ],
+    "galleryImages": [
+      {
+        "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+        "caption": "TFTV-AE064 (N) — THE FALLEN & THE VIRTUOUS"
+      }
+    ]
+  },
+  "ice-kosmo": {
+    "name": "Icejade Kosmochlor",
+    "japanese": "氷水帝コスモクロア",
+    "romaji": "kōrimizu mikado kosumokuroa",
+    "cardType": "Monster",
+    "attribute": "WATER",
+    "types": "Aqua／Effect",
+    "level": 10,
+    "atk": 1500,
+    "def": 3000,
+    "cardcode": "03355732",
+    "image": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+    "effect": "If a face-up card is in a Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Icejade Kosmochlor\" once per turn this way. While \"Icejade Cenote Enion Cradle\" is on the field, monsters your opponent controls can only activate their effects the turn they are Summoned. If your \"Icejade\" monster battles an opponent's monster, that opponent's monster loses 1000 ATK during that damage calculation only.",
+    "sets": [
+      {
+        "release": "2025-11-15",
+        "number": "TFTV-AE066",
+        "set": "THE FALLEN & THE VIRTUOUS",
+        "rarity": "Super Rare"
+      }
+    ],
+    "galleryImages": [
+      {
+        "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+        "caption": "TFTV-AE066 (SR) — THE FALLEN & THE VIRTUOUS"
+      }
+    ]
+  },
+  "ice-tinola": {
+    "name": "Icejade Tinola",
+    "japanese": "氷水のティノーラ",
+    "romaji": "kōrimizu no tinōra",
+    "cardType": "Monster",
+    "attribute": "WATER",
+    "types": "Aqua／Effect",
+    "level": 4,
+    "atk": 1000,
+    "def": 1000,
+    "cardcode": "28762303",
+    "image": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+    "effect": "You can send 1 card from your hand to the GY, then target 1 WATER monster in your GY; send this card from the field to the GY, and if you do, Special Summon the targeted monster. If a face-up WATER monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can banish this card; Special Summon 1 \"Icejade\" monster from your hand or GY, except \"Icejade Tinola\". You can only use each effect of \"Icejade Tinola\" once per turn.",
+    "sets": [
+      {
+        "release": "2025-11-15",
+        "number": "TFTV-AE063",
+        "set": "THE FALLEN & THE VIRTUOUS",
+        "rarity": "Normal"
+      }
+    ],
+    "galleryImages": [
+      {
+        "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+        "caption": "TFTV-AE063 (N) — THE FALLEN & THE VIRTUOUS"
+      }
+    ]
+  },
+  "ice-aegirine": {
+    "name": "Icejade Aegirine",
+    "japanese": "氷水のエジル",
+    "romaji": "kōrimizu no ejiru",
+    "cardType": "Monster",
+    "attribute": "WATER",
+    "types": "Aqua／Effect",
+    "level": 3,
+    "atk": 1000,
+    "def": 2000,
+    "cardcode": "39354437",
+    "image": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+    "effect": "If this card is Normal or Special Summoned: You can add 1 \"Icejade\" Spell/Trap from your Deck to your hand. When your opponent activates a card or effect that targets this card, or targets this card for an attack (Quick Effect): You can activate this effect; the next time this card would be destroyed by battle or card effect this turn, it is not destroyed, also Special Summon 1 WATER monster from your hand or GY, except \"Icejade Aegirine\", but return it to the hand during the End Phase. You can only use each effect of \"Icejade Aegirine\" once per turn.",
+    "sets": [
+      {
+        "release": "2025-11-15",
+        "number": "TFTV-AE065",
+        "set": "THE FALLEN & THE VIRTUOUS",
+        "rarity": "Secret Rare"
+      },
+      {
+        "release": "2025-11-15",
+        "number": "TFTV-AE065",
+        "set": "THE FALLEN & THE VIRTUOUS",
+        "rarity": "Super Rare"
+      }
+    ],
+    "galleryImages": [
+      {
+        "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+        "caption": "TFTV-AE065 (ScR) — THE FALLEN & THE VIRTUOUS"
+      },
+      {
+        "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+        "caption": "TFTV-AE065 (SR) — THE FALLEN & THE VIRTUOUS"
+      }
+    ]
+  },
+  "ice-gymir-aegi": {
+    "name": "Icejade Gymir Aegirine",
+    "japanese": "氷水啼エジル・ギュミル",
+    "romaji": "kōrimizu 啼 ejiru gyumiru",
+    "cardType": "Monster",
+    "attribute": "WATER",
+    "types": "Aqua／Synchro／Effect",
+    "level": 10,
+    "atk": 3000,
+    "def": 1500,
+    "cardcode": "86682165",
+    "image": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+    "effect": "1 WATER Tuner + 1+ non-Tuner monsters\n (Quick Effect): You can activate this effect; face-up monsters you control cannot be destroyed, or banished, by your opponent's card effects this turn. Then, if you activated this effect in response to your opponent's card or effect activation, and your opponent has a card(s) with that name on their field and/or GY, you can banish those cards. If a card(s) is banished by your opponent's card effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Icejade Gymir Aegirine\" once per turn.",
+    "sets": [
+      {
+        "release": "2025-11-15",
+        "number": "TFTV-AE127",
+        "set": "THE FALLEN & THE VIRTUOUS",
+        "rarity": "Prismatic Secret Rare"
+      },
+      {
+        "release": "2025-11-15",
+        "number": "TFTV-AE127",
+        "set": "THE FALLEN & THE VIRTUOUS",
+        "rarity": "Ultimate Rare"
+      }
+    ],
+    "galleryImages": [
+      {
+        "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+        "caption": "TFTV-AE127 (PSE) — THE FALLEN & THE VIRTUOUS"
+      },
+      {
+        "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+        "caption": "TFTV-AE127 (UL) — THE FALLEN & THE VIRTUOUS"
+      }
+    ]
+  },
+  "theron-reaper-fum": {
+    "name": "Therion \"Reaper\" Fum",
+    "japanese": "セリオンズ“リーパー”ファム",
+    "romaji": "serionzu “ rīpā ” famu",
+    "cardType": "Monster",
+    "attribute": "WATER",
+    "types": "Aqua／Effect",
+    "level": 7,
+    "atk": 1400,
+    "def": 2500,
+    "cardcode": "21727231",
+    "image": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+    "effect": "You can only use each of the following effects of \"Therion \"Reaper\" Fum\" once per turn. ● You can target 1 \"Therion\" monster or 1 Aqua monster in your GY; Special Summon this card from your hand, and if you do, equip that monster to this card. ● During your opponent's turn (Quick Effect): You can target 1 \"Therion\" card in your Spell & Trap Zone and 1 card your opponent controls; return them to the hand. A \"Therion\" monster equipped with this card gains 700 ATK, also it can activate the 2nd effect listed above as if it were \"Therion \"Reaper\" Fum\".",
+    "sets": [
+      {
+        "release": "2025-11-15",
+        "number": "TFTV-AE086",
+        "set": "THE FALLEN & THE VIRTUOUS",
+        "rarity": "Super Rare"
+      }
+    ],
+    "galleryImages": [
+      {
+        "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
+        "caption": "TFTV-AE086 (SR) — THE FALLEN & THE VIRTUOUS"
       }
     ]
   }

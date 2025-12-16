@@ -185,3 +185,7 @@ header {
   color: #0044cc;
   font-weight: bold;
 }
+
+.image-gallery img {
+      width: 10%; /* Atau atur lebar tetap seperti 100px jika Anda mau */
+    }
