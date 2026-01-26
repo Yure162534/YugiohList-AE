@@ -27,12 +27,12 @@ header {
   width: 250px;
 }
 
-.set-header {
+.setHeader {
   text-align: center;
   margin-top: 20px;
 }
 
-.set-header h1 {
+.setHeader h1 {
   background-color: #cce0ff;
   display: inline-block;
   padding: 10px 30px;
@@ -45,7 +45,7 @@ header {
   font-size: 14px;
 }
 
-.card-list {
+.cardList {
   width: 90%;
   margin: 30px auto;
   background: white;
@@ -54,36 +54,36 @@ header {
   overflow: hidden;
 }
 
-.card-list table {
+.cardList table {
   width: 100%;
   border-collapse: collapse;
 }
 
-.card-list th, .card-list td {
+.cardList th, .cardList td {
   border: 1px solid #ccc;
   padding: 8px 10px;
   text-align: left;
 }
 
-.card-list th {
+.cardList th {
   background-color: #e6e6e6;
 }
 
-.card-list tr:nth-child(even) {
+.cardList tr:nth-child(even) {
   background-color: #f9f9f9;
 }
 
-.card-list a {
+.cardList a {
   color: #0044cc;
   text-decoration: none;
 }
 
-.card-list a:hover {
+.cardList a:hover {
   text-decoration: underline;
 }
 
 /* Main Box */
-.card-box {
+.cardBox {
   background-color: #ffe6cc;
   border: 2px solid #ccc;
   width: 80%;
@@ -92,12 +92,12 @@ header {
   border-radius: 10px;
 }
 
-.card-content {
+.cardContent {
   display: flex;
   gap: 20px;
 }
 
-.card-image {
+.cardImage {
   width: 250px;           /* lebar tetap */
   height: 365px;          /* tinggi sesuai rasio kartu asli */
   object-fit: cover;      /* pastikan gambar memenuhi area tanpa distorsi aneh */
@@ -105,7 +105,7 @@ header {
   border-radius: 8px;     /* sedikit membulat biar lebih realistis */
 }
 
-.card-details {
+.cardDetails {
   flex: 1;
 }
 
@@ -117,12 +117,12 @@ header {
 }
 
 /* Gallery link */
-.gallery-link {
+.galleryLink {
   text-align: center;
   margin: 20px;
 }
 
-.gallery-link a {
+.galleryLink a {
   font-size: 18px;
   color: #0044cc;
   text-decoration: none;
@@ -130,42 +130,42 @@ header {
 }
 
 /* Set info */
-.set-info {
+.setInfo {
   width: 80%;
   margin: 30px auto;
 }
 
-.set-info table {
+.setInfo table {
   width: 100%;
   border-collapse: collapse;
   background: white;
 }
 
-.set-info th, .set-info td {
+.setInfo th, .setInfo td {
   border: 1px solid #ccc;
   padding: 10px;
   text-align: left;
 }
 
-.set-info th {
+.setInfo th {
   background-color: #e6e6e6;
 }
 
 /* Gallery page */
-.gallery-page {
+.galleryPage {
   width: 80%;
   margin: 30px auto;
   text-align: center;
 }
 
-.gallery-grid {
+.galleryGrid {
   display: flex;
   justify-content: center;
   gap: 30px;
   flex-wrap: wrap;
 }
 
-.gallery-item {
+.galleryItem {
   background: white;
   padding: 15px;
   border-radius: 10px;
@@ -173,12 +173,12 @@ header {
   width: 250px;
 }
 
-.gallery-item img {
+.galleryItem img {
   width: 100%;
   border-radius: 5px;
 }
 
-.back-link {
+.backLink {
   display: inline-block;
   margin-top: 20px;
   text-decoration: none;
@@ -186,6 +186,6 @@ header {
   font-weight: bold;
 }
 
-.image-gallery img {
+.imageGallery img {
       width: 10%; /* Atau atur lebar tetap seperti 100px jika Anda mau */
     }

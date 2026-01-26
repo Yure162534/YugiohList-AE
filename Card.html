@@ -4,33 +4,32 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Card Details</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="/css/style.css" />
 </head>
 <body>
 
   <header>
     <div class="logo">YugiohList Asian-English</div>
-    <input type="text" class="search-bar" placeholder="Search card..." />
   </header>
 
   <!-- Tampilan kartu utama -->
   <main>
-    <section class="card-box">
-      <h1 id="card-name">Loading...</h1>
-      <div class="card-content">
-        <img id="card-image" class="card-image" alt="Card Image">
-        <div class="card-details" id="card-details"></div>
+    <section class="cardBox">
+      <h1 id="cardName">Loading...</h1>
+      <div class="cardContent">
+        <img id="cardImage" class="cardImage" alt="Card Image">
+        <div class="cardDetails" id="cardDetails"></div>
       </div>
     </section>
 
     <!-- Link ke gallery.html -->
-    <section class="gallery-link">
-      <a id="gallery-link" href="gallery.html">Gallery</a>
+    <section class="galleryLink">
+      <a id="galleryLink" href="gallery.html">Gallery</a>
     </section>
 
     <!-- Set info -->
-    <section class="set-info">
-      <a id="back-link" href="list.html" class="back-link">Back to List Page</a>
+    <section class="setInfo">
+      <a id="backLink" href="list.html" class="backLink">Back to List Page</a>
       <h2>Asian-English</h2>
       <table>
         <thead>
@@ -41,7 +40,7 @@
             <th>Rarity</th>
           </tr>
         </thead>
-        <tbody id="set-table-body"></tbody>
+        <tbody id="setTableBody"></tbody>
       </table>
     </section>
   </main>
@@ -58,14 +57,14 @@
         const card = data[cardId];
 
         if (!card) {
-          document.getElementById("card-name").textContent = "Card not found!";
+          document.getElementById("cardName").textContent = "Card not found!";
           return;
         }
 
         // Isi data kartu
         document.title = `${card.name} - YugiohList`;
-        document.getElementById("card-name").textContent = card.name;
-        document.getElementById("card-image").src = card.image;
+        document.getElementById("cardName").textContent = card.name;
+        document.getElementById("cardImage").src = card.image;
 
         // Detail teks
         const detailsHTML = `
@@ -79,13 +78,13 @@
           <p><b>Card code:</b> ${card.cardcode}</p>
           <p class="effect">${card.effect}</p>
         `;
-        document.getElementById("card-details").innerHTML = detailsHTML;
+        document.getElementById("cardDetails").innerHTML = detailsHTML;
 
         // Link ke gallery
-        document.getElementById("gallery-link").href = `gallery.html?id=${cardId}`;
+        document.getElementById("galleryLink").href = `gallery.html?id=${cardId}`;
 
         // Isi tabel set info
-        const tbody = document.getElementById("set-table-body");
+        const tbody = document.getElementById("setTableBody");
         tbody.innerHTML = card.sets.map(set => `
           <tr>
             <td>${set.release}</td>

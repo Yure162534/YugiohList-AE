@@ -4,21 +4,20 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Card Gallery - Yugipedia Clone</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
 
   <header>
     <div class="logo">YugiohList Asian English</div>
-    <input type="text" class="search-bar" placeholder="Search card..." />
   </header>
 
   <!-- Main Gallery -->
   <main>
-    <section class="gallery-page">
-      <h1 id="gallery-title">Loading...</h1>
-      <div class="gallery-grid" id="gallery-grid"></div>
-      <a id="back-link" href="Card.html" class="back-link">← Back to Card Page</a>
+    <section class="galleryPage">
+      <h1 id="galleryTitle">Loading...</h1>
+      <div class="galleryGrid" id="galleryGrid"></div>
+      <a id="backLink" href="card.html" class="backLink">← Back to Card Page</a>
     </section>
   </main>
 
@@ -34,21 +33,21 @@
         const card = data[cardId];
 
         if (!card) {
-          document.getElementById("gallery-title").textContent = "Card not found!";
+          document.getElementById("galleryTitle").textContent = "Card not found!";
           return;
         }
 
         // Ubah judul
         document.title = `${card.name} Gallery - YugiohList`;
-        document.getElementById("gallery-title").textContent = `${card.name} Gallery`;
+        document.getElementById("galleryTitle").textContent = `${card.name} Gallery`;
 
         // Isi galeri
-        const galleryGrid = document.getElementById("gallery-grid");
+        const galleryGrid = document.getElementById("galleryGrid");
 
         // Kalau punya banyak gambar, pakai array `galleryImages`
         if (card.galleryImages && card.galleryImages.length > 0) {
           galleryGrid.innerHTML = card.galleryImages.map(img => `
-            <div class="gallery-item">
+            <div class="galleryItem">
               <img src="${img.src}" alt="${card.name}">
               <p>${img.caption}</p>
             </div>
@@ -59,7 +58,7 @@
         }
 
         // Link kembali ke halaman card
-        document.getElementById("back-link").href = `Card.html?id=${cardId}`;
+        document.getElementById("backLink").href = `card.html?id=${cardId}`;
       })
       .catch(err => {
         console.error("Error loading card data:", err);
