@@ -990,6 +990,12 @@
         "number": "ROTA-AE023",
         "set": "Rage of the Abyss",
         "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "release": "2026-01-24",
+        "number": "CH02-AE009",
+        "set": "THE CHRONICLES DECK SPIRIT CHARMERS",
+        "rarity": "Normal"
       }
     ],
     "galleryImages": [
@@ -1008,6 +1014,10 @@
       {
         "src": "./MyImages/EriaChannelerQCSR.webp",
         "caption": "ROTA-AE023 (QCSR) — Rage of the Abyss"
+      },
+      {
+        "src": "./MyImages/EriaChannelerN.webp",
+        "caption": "CH02-AE009 (N) — THE CHRONICLES DECK SPIRIT CHARMERS"
       }
     ]
   },
@@ -1253,6 +1263,12 @@
         "number": "ROTA-AE112",
         "set": "Rage of the Abyss",
         "rarity": "Quarter Century Secret Rare"
+      },
+      {
+        "release": "2026-01-24",
+        "number": "CH02-AE042",
+        "set": "THE CHRONICLES DECK SPIRIT CHARMERS",
+        "rarity": "Parallel Normal"
       }
     ],
     "galleryImages": [
@@ -1271,6 +1287,10 @@
       {
         "src": "https://static.wikia.nocookie.net/yugioh/images/4/4a/AromageRosemary-CR03-AE-SR-UE.webp",
         "caption": "ROTA-AE112 (QCSR) — Rage of the Abyss"
+      },
+      {
+        "src": "./MyImages/EriaGentlePN.webp",
+        "caption": "CH02-AE042 (PN) — THE CHRONICLES DECK SPIRIT CHARMERS"
       }
     ]
   },
@@ -2240,6 +2260,110 @@
       {
         "src": "./MyImages/TherionReaperSR.webp",
         "caption": "TFTV-AE086 (SR) — THE FALLEN & THE VIRTUOUS"
+      }
+    ]
+  },
+  "eria-water-charmer": {
+    "name": "Eria the Water Charmer",
+    "japanese": "水霊使いエリア",
+    "romaji": "mizu reizukai eria",
+    "cardType": "Monster",
+    "attribute": "WATER",
+    "types": "Spellcaster／Flip／Effect",
+    "level": 3,
+    "atk": 500,
+    "def": 1500,
+    "cardcode": "74364659",
+    "image": "./MyImages/EriaSE.webp",
+    "effect": "FLIP: Target 1 WATER monster your opponent controls; take control of that monster while this card is face-up on the field.",
+    "sets": [
+      {
+        "release": "2026-01-24",
+        "number": "CH02-AE001",
+        "set": "THE CHRONICLES DECK SPIRIT CHARMERS",
+        "rarity": "Super Rare"
+      },
+      {
+        "release": "2026-01-24",
+        "number": "CH02-AE001",
+        "set": "THE CHRONICLES DECK SPIRIT CHARMERS",
+        "rarity": "Secret Rare"
+      }
+    ],
+    "galleryImages": [
+      {
+        "src": "./MyImages/EriaSR.webp",
+        "caption": "CH02-AE001 (SR) — THE CHRONICLES DECK SPIRIT CHARMERS"
+      },
+      {
+        "src": "./MyImages/EriaSE.webp",
+        "caption": "CH02-AE001 (SE) — THE CHRONICLES DECK SPIRIT CHARMERS"
+      }
+    ]
+  },
+  "eria-familiar": {
+    "name": "Familiar-Possessed - Eria",
+    "japanese": "憑依装着－エリア",
+    "romaji": "hyōi sōchaku － eria",
+    "cardType": "Monster",
+    "attribute": "WATER",
+    "types": "Spellcaster／Effect",
+    "level": 4,
+    "atk": 1850,
+    "def": 1500,
+    "cardcode": "68881649",
+    "image": "./MyImages/FamiliarEriaPN.webp",
+    "effect": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Eria the Water Charmer\" and 1 face-up WATER monster you control to the GY. If this card Special Summoned by its effect attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "sets": [
+      {
+        "release": "2026-01-24",
+        "number": "CH02-AE005",
+        "set": "THE CHRONICLES DECK SPIRIT CHARMERS",
+        "rarity": "Parallel Normal"
+      }
+    ],
+    "galleryImages": [
+      {
+        "src": "./MyImages/FamiliarEriaPN.webp",
+        "caption": "CH02-AE005 (PN) — THE CHRONICLES DECK SPIRIT CHARMERS"
+      }
+    ]
+  },
+  "wiz-fur-hire": {
+    "name": "Wiz, Sage Fur Hire",
+    "japanese": "空牙団の叡智 ウィズ",
+    "romaji": "sora kibadan no eichi wizu",
+    "cardType": "Monster",
+    "attribute": "WATER",
+    "types": "Spellcaster／Effect",
+    "level": 7,
+    "atk": 1600,
+    "def": 2800,
+    "cardcode": "01527418",
+    "image": "./MyImages/WizFurHireSR.webp",
+    "effect": "If this card is Special Summoned: You can gain 500 LP for each monster \"Fur Hire\" you control with a different name, except \"Wiz, Sage Fur Hire\". When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can discard 1 card \"Fur Hire\"; negate the activation. You can only use each effect of \"Wiz, Sage Fur Hire\" once per turn.",
+    "sets": [
+      {
+        "release": "2026-01-10",
+        "number": "CR10-AE051",
+        "set": "Creation Pack 10",
+        "rarity": "Super Rare"
+      },
+      {
+        "release": "2026-01-10",
+        "number": "CR10-AES20",
+        "set": "Creation Pack 10 +1 Bonus Pack",
+        "rarity": "Secret Rare"
+      }
+    ],
+    "galleryImages": [
+      {
+        "src": "./MyImages/WizFurHireSR.webp",
+        "caption": "CR10-AE051 (SR) — Creation Pack 10"
+      },
+      {
+        "src": "./MyImages/WizFurHireSE.webp",
+        "caption": "CR10-AES20 (SE) — Creation Pack 10 +1 Bonus Pack"
       }
     ]
   }
